@@ -53,7 +53,7 @@ def extract_website(website_base_url):
     for webpage_url in tqdm(all_webpages):
         data[webpage_url] = extract_webpage(webpage_url)
 
-    return website_base_url, data
+    return {website_base_url: data} 
 
 
 if __name__ == "__main__":
@@ -63,7 +63,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # Extract the website
-    base_url, data = extract_website(args.website_base_url)
+    data = extract_website(args.website_base_url)
 
     # Save the data to a JSON file
     # with open('data.json', 'w') as f:
