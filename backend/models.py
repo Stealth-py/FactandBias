@@ -1,4 +1,4 @@
-from sqlalchemy import Boolean, Column, ForeignKey, Integer, String, DateTime
+from sqlalchemy import Text, Column, ForeignKey, Integer, String, DateTime
 from sqlalchemy.orm import relationship
 from sqlalchemy_utils import JSONType
 
@@ -13,24 +13,27 @@ class Article(Base):
     url = Column(String, unique=True, index=True)
     # Source url
     base_url = Column(String, unique=False, index=True)
-    raw_txt = Column(String)
+    raw_txt = Column(Text)
+    txt = Column(Text)
 
-    authors = Column(String, )
+    authors = Column(String, unique=False)
     # When the website published it
-    date_created = DateTime()
+    date_created = Column(String, unique=False)
     # When we added it to the DB
-    date_added = DateTime(default=datetime.datetime.utcnow)
+    date_added = Column(DateTime, default=datetime.datetime.utcnow)
 
 
 
 
 
-class Results(Base):
-    __tablename__ = "results"
+# class Results(Base):
+#     __tablename__ = "results"
+#
+#     id = Column(Integer, primary_key=True, index=True)
+#     url_id = Column(Integer,  ForeignKey("articles.id"))
+#
+#     # Source url
+#     factuality_results = Column(JSONType)
+#     bias_results = Column(JSONType)
 
-    id = Column(Integer, primary_key=True, index=True)
-    url_id = Column(Integer,  ForeignKey("articles.id"))
 
-    # Source url
-    factuality_results = Column(JSONType)
-    bias_results = Column(JSONType)

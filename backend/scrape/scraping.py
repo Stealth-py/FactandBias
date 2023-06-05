@@ -43,7 +43,8 @@ def extract_website(website_base_url):
     Returns:
         tuple: A tuple containing the website base URL and a dictionary with extracted data for each webpage.
     """
-    webpages = ts.focused_crawler(website_base_url, max_seen_urls=2)
+    webpages = ts.focused_crawler(website_base_url, max_seen_urls=100,
+                                  max_known_urls=100)
 
     all_webpages = set()
     for webpage_set in webpages:
