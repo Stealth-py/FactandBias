@@ -45,7 +45,7 @@ if VALID_SRC:
     fig3 = tp.get_plotpie()
     
     with st.container():
-        st.markdown("<h3 style='text-align: center; color: black;'>YOOOOOOO!!!!! LESGOOOOOOOOOOOOOOOOOOOOOO!!!</h3>", unsafe_allow_html=True)
+        st.markdown("<h3 style='text-align: center; color: black;'>BBC News</h3>", unsafe_allow_html=True)
 
     plot1(fig1, fig3)
     # with st.container():
