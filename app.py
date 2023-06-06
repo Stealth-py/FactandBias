@@ -74,9 +74,9 @@ if __name__ == "__main__":
         with st.empty():
             with st.spinner('Scraping...'):
                 results = tp.make_request(news_src).json()
-                #print(results.json())
-            barfig = tp.plotbar(results['bias_results'])
-            piefig = tp.plotpie(results['factuality_results'])
+                print(results)
+            barfig = tp.plotbar(results[0]['bias_results'])
+            piefig = tp.plotpie(results[0]['factuality_results'])
 
             st.markdown(f"<h3 style='text-align: center; color: black;'>{news_src}</h3>", unsafe_allow_html=True)
 

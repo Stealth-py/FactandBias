@@ -5,8 +5,8 @@ from .database import SessionLocal
 from typing import List
 import uvicorn
 from .scrape.scraping import extract_website
-from .models import Article
-from .schemas import Article as ART, Results
+from .models import Article, Results
+from .schemas import Article as ART, Results as RES
 from fastapi_cache.backends.redis import RedisBackend
 from fastapi_cache.decorator import cache
 from fastapi_cache import FastAPICache
@@ -26,8 +26,8 @@ def get_db():
 
 
 @app.get("/parse")
-@cache(expire=60 * 60 * 24)
-async def parse(url: str, db: Session = Depends(get_db)) -> Results:
+#@cache(expire=60 * 60 * 24)
+async def parse(url: str, db: Session = Depends(get_db)) -> List[RES]:
     try:
         result = extract_website(url)
     except Exception as e:
@@ -44,24 +44,29 @@ async def parse(url: str, db: Session = Depends(get_db)) -> Results:
                 )
         for link in links
     ]
+    results = []
     for a in articles:
         db.add(a)
         db.commit()
-
+        r = Results(
+            factuality_results={"Factuality": {"0": "Factual", "1": "Not Factual"},
+             "Scores": {"0": 0.8124814628, "1": 0.1875185372}},
+            bias_results={"Bias": {"0": "Left", "1": "Center", "2": "Right"},
+             "Scores": {"0": 0.1792511051, "1": 0.0271034325, "2": 0.7936454624}},
+            url_id=a.id
+        )
+        results.append(r)
+        print(r)
+        # db.add(r)
+        # db.commit()
     # db.bulk_save_objects(
     #    articles,
     # )
     # db.commit()
     # db.refresh(articles)
-
-    return Results(
-        factuality_results=
-        {"Factuality": {"0": "Factual", "1": "Not Factual"},
-         "Scores": {"0": 0.8124814628, "1": 0.1875185372}},
-        bias_results=
-        {"Bias": {"0": "Left", "1": "Center", "2": "Right"},
-         "Scores": {"0": 0.1792511051, "1": 0.0271034325, "2": 0.7936454624}}
-    )
+    print(results)
+    print(type(results))
+    return results
 
 
 @app.get("/db")

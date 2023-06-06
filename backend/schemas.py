@@ -22,6 +22,9 @@ class Article(BaseModel):
 
 class Results(BaseModel):
     #id: int
-    #url_id: int
+    url_id: int
     factuality_results: dict
     bias_results: dict
+
+    class Config:
+        orm_mode = True
