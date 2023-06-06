@@ -57,14 +57,39 @@ def plot(barfig, piefig):
 def aggr_scores(results):
     biasscores = []
     factscores = []
+
+    aggregatedBiasScores = []
+    aggregatedFactScores = []
     
-    for i in range(biasresults.shape[0]):
+    for i in range(len(results)):
         biasresults = results[i]['bias_results']
         factresults = results[i]['factuality_results']
-        biasscores.append(list(biasresults['Scores'].values))
-        factscores.append(list(factresults['Scores'].values))
-    
-    biaslabs = []
+        biasscores.append(list(biasresults['Scores'].values()))
+        factscores.append(list(factresults['Scores'].values()))
+
+    biaslabs = np.array([np.argmax(i) for i in biasscores])
+    factlabs = np.array([np.argmax(i) for i in factscores])
+
+    aggregatedBiasScores.append(np.count_nonzero(biaslabs == 0)/len(biaslabs))
+    aggregatedBiasScores.append(np.count_nonzero(biaslabs == 1)/len(biaslabs))
+    aggregatedBiasScores.append(np.count_nonzero(biaslabs == 2)/len(biaslabs))
+
+    aggregatedFactScores.append(np.count_nonzero(factlabs == 0)/len(factlabs))
+    aggregatedFactScores.append(np.count_nonzero(factlabs == 1)/len(factlabs))
+
+    finalResult = results[0]
+    finalResult = {
+        'bias_results': {
+            "Bias": {"0": "Left", "1": "Center", "2": "Right"},
+            "Scores": {"0": aggregatedBiasScores[0], "1": aggregatedBiasScores[1], "2": aggregatedBiasScores[2]}
+        },
+        'factuality_results': {
+            "Factuality": {"0": "Factual", "1": "Not Factual"},
+            "Scores": {"0": aggregatedFactScores[0], "1": aggregatedFactScores[1]}
+        }
+    }
+
+    return finalResult
 
 
 if __name__ == "__main__":
@@ -88,8 +113,13 @@ if __name__ == "__main__":
             with st.spinner('Scraping...'):
                 results = tp.make_request(news_src).json()
             print(results[0])
-            barfig = tp.plotbar(results[0]['bias_results'])
-            piefig = tp.plotpie(results[0]['factuality_results'])
+
+            results = aggr_scores(results)
+
+            print(results)
+
+            barfig = tp.plotbar(results['bias_results'])
+            piefig = tp.plotpie(results['factuality_results'])
 
             st.markdown(f"<h3 style='text-align: center; color: black;'>{news_src}</h3>", unsafe_allow_html=True)
 
