@@ -3,7 +3,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import torch, requests
-
+from frontend.cfg import ROOT
 VALID_SRC = False
 
 factscores = np.random.randn(1, 2)
@@ -71,6 +71,7 @@ if __name__ == "__main__":
         st.form_submit_button(label = "Analyse", on_click = valid_url(news_src))
 
     if VALID_SRC:
+        tp.make_request(news_src)
         barfig = tp.plotbar(biasresult)
         piefig = tp.plotpie(factresult)
 
