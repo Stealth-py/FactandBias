@@ -2,7 +2,7 @@ import frontend.utils as tp
 import streamlit as st
 import numpy as np
 import pandas as pd
-import torch, requests
+import torch, requests, time
 from frontend.cfg import ROOT
 VALID_SRC = False
 
@@ -71,11 +71,12 @@ if __name__ == "__main__":
         st.form_submit_button(label = "Analyse", on_click = valid_url(news_src))
 
     if VALID_SRC:
-        tp.make_request(news_src)
-        barfig = tp.plotbar(biasresult)
-        piefig = tp.plotpie(factresult)
+        with st.empty():
+            with st.spinner('Scraping...'):
+                tp.make_request(news_src)
+            barfig = tp.plotbar(biasresult)
+            piefig = tp.plotpie(factresult)
 
-        with st.container():
             st.markdown(f"<h3 style='text-align: center; color: black;'>{news_src}</h3>", unsafe_allow_html=True)
 
-        plot(barfig, piefig)
+            plot(barfig, piefig)

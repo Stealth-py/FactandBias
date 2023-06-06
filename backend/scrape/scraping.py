@@ -43,8 +43,8 @@ def extract_website(website_base_url):
     Returns:
         dict: A dictionary containing the website base URL as key and the value as a dictionary of webpages data as returned by the `extract_webpage` function.
     """
-    webpages = ts.focused_crawler(website_base_url, max_seen_urls=100,
-                                  max_known_urls=100)
+    webpages = ts.focused_crawler(website_base_url, max_seen_urls=10,
+                                  max_known_urls=50)
 
     all_webpages = set()
     for webpage_set in webpages:
@@ -52,7 +52,10 @@ def extract_website(website_base_url):
 
     data = dict()
     for webpage_url in tqdm(all_webpages):
-        data[webpage_url] = extract_webpage(webpage_url)
+        try:
+            data[webpage_url] = extract_webpage(webpage_url)
+        except:
+            pass
 
     return {website_base_url: data} 
 
