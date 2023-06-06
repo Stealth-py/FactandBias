@@ -7,11 +7,11 @@ import uvicorn
 from .scrape.scraping import extract_website
 from .models import Article, Results
 from .schemas import Article as ART, Results as RES
-from fastapi_cache.backends.redis import RedisBackend
-from fastapi_cache.decorator import cache
 from fastapi_cache import FastAPICache
+from fastapi_cache.backends.inmemory import InMemoryBackend
+from fastapi_cache.decorator import cache
 
-from redis import asyncio as aioredis
+from memcache import async_memcache as aeromemcached
 
 app = FastAPI()
 
@@ -26,7 +26,7 @@ def get_db():
 
 
 @app.get("/parse")
-#@cache(expire=60 * 60 * 24)
+@cache(expire=60 * 60 * 24)
 async def parse(url: str, db: Session = Depends(get_db)) -> List[RES]:
     try:
         result = extract_website(url)
@@ -56,7 +56,6 @@ async def parse(url: str, db: Session = Depends(get_db)) -> List[RES]:
             url_id=a.id
         )
         results.append(r)
-        print(r)
         # db.add(r)
         # db.commit()
     # db.bulk_save_objects(
@@ -64,8 +63,6 @@ async def parse(url: str, db: Session = Depends(get_db)) -> List[RES]:
     # )
     # db.commit()
     # db.refresh(articles)
-    print(results)
-    print(type(results))
     return results
 
 
@@ -77,8 +74,7 @@ async def parse(db: Session = Depends(get_db)):
 
 @app.on_event("startup")
 async def startup():
-    redis = aioredis.from_url("redis://localhost")
-    FastAPICache.init(RedisBackend(redis), prefix="fastapi-cache")
+    FastAPICache.init(InMemoryBackend(), prefix="fastapi-inmemorycache")
     print("Started")
 
 
