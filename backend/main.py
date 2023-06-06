@@ -49,5 +49,10 @@ async def parse(url: str, db: Session = Depends(get_db))->List[ART]:
 
     return articles
 
+
+@app.get("/db")
+async def parse(db: Session = Depends(get_db)):
+    return {"data": db.query(Article).all()}
+
 if __name__=='__main__':
     uvicorn.run("main:app", host="127.0.0.1", port=8000, reload=True)
