@@ -73,9 +73,10 @@ if __name__ == "__main__":
     if VALID_SRC:
         with st.empty():
             with st.spinner('Scraping...'):
-                tp.make_request(news_src)
-            barfig = tp.plotbar(biasresult)
-            piefig = tp.plotpie(factresult)
+                results = tp.make_request(news_src).json()
+                #print(results.json())
+            barfig = tp.plotbar(results['bias_results'])
+            piefig = tp.plotpie(results['factuality_results'])
 
             st.markdown(f"<h3 style='text-align: center; color: black;'>{news_src}</h3>", unsafe_allow_html=True)
 

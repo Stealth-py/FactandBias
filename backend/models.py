@@ -23,9 +23,6 @@ class Article(Base):
     date_added = Column(DateTime, default=datetime.datetime.utcnow)
 
 
-
-
-
 class Results(Base):
     __tablename__ = "results"
 
