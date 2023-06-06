@@ -26,14 +26,14 @@ class Article(Base):
 
 
 
-# class Results(Base):
-#     __tablename__ = "results"
-#
-#     id = Column(Integer, primary_key=True, index=True)
-#     url_id = Column(Integer,  ForeignKey("articles.id"))
-#
-#     # Source url
-#     factuality_results = Column(JSONType)
-#     bias_results = Column(JSONType)
+class Results(Base):
+    __tablename__ = "results"
+
+    id = Column(Integer, primary_key=True, index=True)
+    url_id = Column(Integer,  ForeignKey("articles.id"))
+
+    # Source url
+    factuality_results = Column(JSONType)
+    bias_results = Column(JSONType)
 
 

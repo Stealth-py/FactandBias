@@ -20,9 +20,8 @@ class Article(BaseModel):
         orm_mode = True
 
 
-# class Results(BaseModel):
-#     id: int
-#     url_id: int
-#     factuality_results: dict
-#     bias_results: dict
-#
+class Results(BaseModel):
+    id: int
+    url_id: int
+    factuality_results: dict
+    bias_results: dict

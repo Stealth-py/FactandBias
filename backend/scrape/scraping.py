@@ -59,9 +59,9 @@ def extract_website(website_base_url):
 
 if __name__ == "__main__":
     # Parse the command-line arguments
-    parser = argparse.ArgumentParser(description="Webpage extraction script")
-    parser.add_argument("website_base_url", type=str, help="Base URL of the website to extract")
-    args = parser.parse_args()
+    # parser = argparse.ArgumentParser(description="Webpage extraction script")
+    # parser.add_argument("website_base_url", type=str, help="Base URL of the website to extract")
+    # args = parser.parse_args()
 
     # Extract the website
     data = extract_website(args.website_base_url)

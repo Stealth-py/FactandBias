@@ -7,7 +7,11 @@ import uvicorn
 from .scrape.scraping import extract_website
 from .models import Article
 from .schemas import Article as ART
+from fastapi_cache.backends.redis import RedisBackend
+from fastapi_cache.decorator import cache
+from fastapi_cache import FastAPICache
 
+from redis import asyncio as aioredis
 
 app = FastAPI()
 
@@ -20,6 +24,7 @@ def get_db():
         db.close()
 
 @app.get("/parse")
+@cache(expire=60 * 60 * 24)
 async def parse(url: str, db: Session = Depends(get_db))->List[ART]:
     try:
         result = extract_website(url)
@@ -51,8 +56,16 @@ async def parse(url: str, db: Session = Depends(get_db))->List[ART]:
 
 
 @app.get("/db")
+@cache(expire=60)
 async def parse(db: Session = Depends(get_db)):
     return {"data": db.query(Article).all()}
+
+
+@app.on_event("startup")
+async def startup():
+    redis = aioredis.from_url("redis://localhost")
+    FastAPICache.init(RedisBackend(redis), prefix="fastapi-cache")
+
 
 if __name__=='__main__':
     uvicorn.run("main:app", host="127.0.0.1", port=8000, reload=True)
