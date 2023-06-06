@@ -10,7 +10,7 @@ class Article(BaseModel):
     raw_txt: str
     txt: str
 
-    authors: str
+    authors: Optional[str]
     # When the website published it
     date_created: str
     # When we added it to the DB
