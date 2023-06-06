@@ -11,4 +11,4 @@ def plotbar(result):
     return fig
 
 def make_request(url):
-    print(r.get(ROOT+'parse', params={'url':url}))
+    return r.get(ROOT+'parse', params={'url':url})
