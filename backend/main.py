@@ -11,6 +11,7 @@ from fastapi_cache import FastAPICache
 from fastapi_cache.backends.inmemory import InMemoryBackend
 from fastapi_cache.decorator import cache
 
+import models.dummy_model_util as dmu
 from memcache import async_memcache as aeromemcached
 
 app = FastAPI()
@@ -44,15 +45,20 @@ async def parse(url: str, db: Session = Depends(get_db)) -> List[RES]:
                 )
         for link in links
     ]
+
+    print("Dumping Results")
     results = []
     for a in articles:
         db.add(a)
         db.commit()
+        biasresults = dmu.get_inference_results(a.txt, task = "bias")
+        factresults = dmu.get_inference_results(a.txt, task = "fact")
+        
         r = Results(
             factuality_results={"Factuality": {"0": "Factual", "1": "Not Factual"},
-             "Scores": {"0": 0.8124814628, "1": 0.1875185372}},
+             "Scores": {"0": factresults['Scores'].values[0], "1": factresults['Scores'].values[1]}},
             bias_results={"Bias": {"0": "Left", "1": "Center", "2": "Right"},
-             "Scores": {"0": 0.1792511051, "1": 0.0271034325, "2": 0.7936454624}},
+             "Scores": {"0": biasresults['Scores'].values[0], "1": biasresults['Scores'].values[1], "2": biasresults['Scores'].values[2]}},
             url_id=a.id
         )
         results.append(r)

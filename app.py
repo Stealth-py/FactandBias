@@ -3,23 +3,24 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import torch, requests, time
+import numpy as np
 from frontend.cfg import ROOT
 VALID_SRC = False
 
-factscores = np.random.randn(1, 2)
-biasscores = np.random.randn(1, 3)
+# factscores = np.random.randn(1, 2)
+# biasscores = np.random.randn(1, 3)
 
-factscores = torch.nn.Softmax(dim = -1)(torch.from_numpy(factscores))
-factresult = pd.DataFrame({
-    'Factuality':['Factual', 'Not Factual'],
-    'Scores': factscores[0].tolist()
-})
+# factscores = torch.nn.Softmax(dim = -1)(torch.from_numpy(factscores))
+# factresult = pd.DataFrame({
+#     'Factuality':['Factual', 'Not Factual'],
+#     'Scores': factscores[0].tolist()
+# })
 
-biasscores = torch.nn.Softmax(dim = -1)(torch.from_numpy(biasscores))
-biasresult = pd.DataFrame({
-    'Bias':['Left', 'Center', 'Right'],
-    'Scores': biasscores[0].tolist()
-})
+# biasscores = torch.nn.Softmax(dim = -1)(torch.from_numpy(biasscores))
+# biasresult = pd.DataFrame({
+#     'Bias':['Left', 'Center', 'Right'],
+#     'Scores': biasscores[0].tolist()
+# })
 
 def valid_url(news_src: str = "https://www.bbc.com/news"):
     """
@@ -53,6 +54,18 @@ def plot(barfig, piefig):
     with col2:
         st.plotly_chart(piefig, use_container_width=True)
 
+def aggr_scores(results):
+    biasscores = []
+    factscores = []
+    
+    for i in range(biasresults.shape[0]):
+        biasresults = results[i]['bias_results']
+        factresults = results[i]['factuality_results']
+        biasscores.append(list(biasresults['Scores'].values))
+        factscores.append(list(factresults['Scores'].values))
+    
+    biaslabs = []
+
 
 if __name__ == "__main__":
     st.set_page_config(layout="wide")
@@ -74,7 +87,7 @@ if __name__ == "__main__":
         with st.empty():
             with st.spinner('Scraping...'):
                 results = tp.make_request(news_src).json()
-                print(results)
+            print(results[0])
             barfig = tp.plotbar(results[0]['bias_results'])
             piefig = tp.plotpie(results[0]['factuality_results'])
 
