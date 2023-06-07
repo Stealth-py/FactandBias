@@ -161,3 +161,9 @@ cython_debug/
 
 sql_app.db
 data/
+wandb/
+mlruns/
+sbert-logs/
+sbert/
+mdebertav3-logs/
+mdebertav3/

@@ -2,5 +2,5 @@
 
 ```bash
 >>> uvicorn backend.main:app --reload
->>> streamlit run app.py
+>>> streamlit run app.py --server.fileWatcherType none
 ```
