@@ -1,6 +1,7 @@
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
 from typing import List
 import torch
+import torch.nn as nn
 import numpy as np
 import os
 import transformers
@@ -19,9 +20,8 @@ class ModelInference:
 
     def predict(self, batch: List[str]) -> np.array:
         with torch.no_grad():
-            inputs = self.tokenizer(batch, return_tensors="pt", truncate=True).to(self.device)
+            inputs = self.tokenizer(batch, truncation=True, padding=True, return_tensors="pt").to(self.device)
             #labels = torch.tensor([1]).unsqueeze(0)
             outputs = self.model(**inputs)
-            res = outputs.logits.numpy()
+            res = nn.Softmax(dim = -1)(outputs.logits).cpu().numpy().tolist()
         return res
-    

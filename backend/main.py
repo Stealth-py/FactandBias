@@ -2,7 +2,7 @@ from fastapi import Depends, FastAPI, HTTPException
 from sqlalchemy import insert
 from sqlalchemy.orm import Session
 from .database import SessionLocal
-from typing import List
+from typing import List, Any
 import uvicorn
 from .scrape.scraping import extract_website
 from .models import Article, Results
@@ -10,9 +10,15 @@ from .schemas import Article as ART, Results as RES
 from fastapi_cache import FastAPICache
 from fastapi_cache.backends.inmemory import InMemoryBackend
 from fastapi_cache.decorator import cache
+from time import time
 
-import models.dummy_model_util as dmu
-from memcache import async_memcache as aeromemcached
+#import models.dummy_model_util as dmu
+#from memcache import async_memcache as aeromemcached
+
+from .inference_models.inference import ModelInference
+
+factmodel = ModelInference(model_path="models/sbert-factuality/checkpoint-497", tokenizer_path="sentence-transformers/all-mpnet-base-v2", quantize=False, use_gpu=True)
+biasmodel = ModelInference(model_path="theArif/mbzuai-political-bias-bert", tokenizer_path="theArif/mbzuai-political-bias-bert", quantize=False, use_gpu=True)
 
 app = FastAPI()
 
@@ -28,7 +34,7 @@ def get_db():
 
 @app.get("/parse")
 @cache(expire=60 * 60 * 24)
-async def parse(url: str, db: Session = Depends(get_db)) -> List[RES]:
+async def parse(url: str, db: Session = Depends(get_db)) -> Any:
     try:
         result = extract_website(url)
     except Exception as e:
@@ -48,20 +54,32 @@ async def parse(url: str, db: Session = Depends(get_db)) -> List[RES]:
 
     print("Dumping Results")
     results = []
+    cur = time()
     for a in articles:
         db.add(a)
         db.commit()
-        biasresults = dmu.get_inference_results(a.txt, task = "bias")
-        factresults = dmu.get_inference_results(a.txt, task = "fact")
+        # biasresults = dmu.get_inference_results(a.txt, task = "bias")
+        # factresults = dmu.get_inference_results(a.txt, task = "fact")
         
+        biasresults = biasmodel.predict([a.txt])[0]
+        factresults = factmodel.predict([a.txt])[0]
+
         r = Results(
-            factuality_results={"Factuality": {"0": "Factual", "1": "Not Factual"},
-             "Scores": {"0": factresults['Scores'].values[0], "1": factresults['Scores'].values[1]}},
+            factuality_results={"Factuality": {"0": "Less Factual", "1": "Mixed Factuality", "2": "Highly Factual"},
+             "Scores": {"0": factresults[0], "1": factresults[1], "2": factresults[2]}},
             bias_results={"Bias": {"0": "Left", "1": "Center", "2": "Right"},
-             "Scores": {"0": biasresults['Scores'].values[0], "1": biasresults['Scores'].values[1], "2": biasresults['Scores'].values[2]}},
+             "Scores": {"0": biasresults[0], "1": biasresults[1], "2": biasresults[2]}},
             url_id=a.id
         )
+
         results.append(r)
+    end = time()
+
+    print({"Factuality": {"0": "Less Factual", "1": "Mixed Factuality", "2": "Highly Factual"},
+             "Scores": {"0": factresults[0], "1": factresults[1], "2": factresults[2]}})
+
+    print("Time to run: ", end - cur)
+    print(results)
         # db.add(r)
         # db.commit()
     # db.bulk_save_objects(

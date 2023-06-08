@@ -76,6 +76,7 @@ def aggr_scores(results):
 
     aggregatedFactScores.append(np.count_nonzero(factlabs == 0)/len(factlabs))
     aggregatedFactScores.append(np.count_nonzero(factlabs == 1)/len(factlabs))
+    aggregatedFactScores.append(np.count_nonzero(factlabs == 2)/len(factlabs))
 
     finalResult = results[0]
     finalResult = {
@@ -84,8 +85,8 @@ def aggr_scores(results):
             "Scores": {"0": aggregatedBiasScores[0], "1": aggregatedBiasScores[1], "2": aggregatedBiasScores[2]}
         },
         'factuality_results': {
-            "Factuality": {"0": "Factual", "1": "Not Factual"},
-            "Scores": {"0": aggregatedFactScores[0], "1": aggregatedFactScores[1]}
+            "Factuality": {"0": "Less Factual", "1": "Mixed Factuality", "2": "Highly Factual"},
+            "Scores": {"0": aggregatedFactScores[0], "1": aggregatedFactScores[1], "2": aggregatedFactScores[2]}
         }
     }
 

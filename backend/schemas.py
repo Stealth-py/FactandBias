@@ -1,5 +1,5 @@
 import datetime
-from typing import Optional
+from typing import Optional, Any
 from pydantic import BaseModel
 
 
@@ -23,8 +23,7 @@ class Article(BaseModel):
 class Results(BaseModel):
     #id: int
     url_id: int
-    factuality_results: dict
-    bias_results: dict
-
+    factuality_results: Any
+    bias_results: Any
     class Config:
         orm_mode = True
