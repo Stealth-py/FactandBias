@@ -11,6 +11,7 @@ from fastapi_cache import FastAPICache
 from fastapi_cache.backends.inmemory import InMemoryBackend
 from fastapi_cache.decorator import cache
 from time import time
+from more_itertools import chunked
 
 #import models.dummy_model_util as dmu
 #from memcache import async_memcache as aeromemcached
@@ -54,16 +55,22 @@ async def parse(url: str, db: Session = Depends(get_db)) -> Any:
 
     print("Dumping Results")
     results = []
+    txts = []
     cur = time()
     for a in articles:
         db.add(a)
         db.commit()
         # biasresults = dmu.get_inference_results(a.txt, task = "bias")
         # factresults = dmu.get_inference_results(a.txt, task = "fact")
-        
-        biasresults = biasmodel.predict([a.txt])[0]
-        factresults = factmodel.predict([a.txt])[0]
-
+        txts.append(a.txt)
+    preds_factuality = []
+    preds_bias = []    
+    for chunk in chunked(txts, 64):
+        biasresults = biasmodel.predict(chunk)
+        factresults = factmodel.predict(chunk)
+        preds_bias.extend(biasresults)
+        preds_factuality.extend(factresults)
+    for factresults, biasresults in zip(preds_factuality, preds_bias):
         r = Results(
             factuality_results={"Factuality": {"0": "Less Factual", "1": "Mixed Factuality", "2": "Highly Factual"},
              "Scores": {"0": factresults[0], "1": factresults[1], "2": factresults[2]}},
