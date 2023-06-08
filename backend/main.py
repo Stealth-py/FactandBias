@@ -19,7 +19,7 @@ from more_itertools import chunked
 from .inference_models.inference import ModelInference
 
 factmodel = ModelInference(model_path="models/sbert-factuality/checkpoint-497", tokenizer_path="sentence-transformers/all-mpnet-base-v2", quantize=False, use_gpu=True)
-biasmodel = ModelInference(model_path="theArif/mbzuai-political-bias-bert", tokenizer_path="theArif/mbzuai-political-bias-bert", quantize=False, use_gpu=True)
+biasmodel = ModelInference(model_path="/l/users/arif.ahmad/mbzuai-political-bias-bert", tokenizer_path="/l/users/arif.ahmad/mbzuai-political-bias-bert", quantize=False, use_gpu=True)
 
 app = FastAPI()
 
