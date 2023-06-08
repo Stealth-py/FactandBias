@@ -12,7 +12,7 @@ from fastapi_cache.backends.inmemory import InMemoryBackend
 from fastapi_cache.decorator import cache
 from time import time
 from more_itertools import chunked
-
+from .coder import ORJsonCoder
 #import models.dummy_model_util as dmu
 #from memcache import async_memcache as aeromemcached
 
@@ -22,6 +22,25 @@ factmodel = ModelInference(model_path="models/sbert-factuality/checkpoint-497", 
 biasmodel = ModelInference(model_path="/l/users/arif.ahmad/mbzuai-political-bias-bert", tokenizer_path="/l/users/arif.ahmad/mbzuai-political-bias-bert", quantize=False, use_gpu=True)
 
 app = FastAPI()
+
+def request_key_builder(
+    func,
+    namespace: str = "",
+    *,
+    request = None,
+    response = None,
+    #*args,
+    **kwargs,
+):
+    res = ":".join([
+        namespace,
+        request.method.lower(),
+        request.url.path,
+        repr(sorted(request.query_params.items()))
+    ])
+    print(res)
+    return res
+
 
 
 # Dependency
@@ -34,7 +53,7 @@ def get_db():
 
 
 @app.get("/parse")
-@cache(expire=60 * 60 * 24)
+@cache(expire=60 * 60 * 24, key_builder=request_key_builder)
 async def parse(url: str, db: Session = Depends(get_db)) -> Any:
     try:
         result = extract_website(url)
