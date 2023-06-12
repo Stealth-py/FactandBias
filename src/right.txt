@@ -1,0 +1,1346 @@
+{'https://mediabiasfactcheck.com/2ndvote/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/abort73/': <p>Bias Rating: <strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong>Factual Reporting: <strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/accuracy-in-academia-aia/': <p>Bias Rating: <strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong>Factual Reporting: <strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/accuracy-in-media-aim/': <p>Bias Rating: <strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong>Factual Reporting: <strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff0000;"><strong>LOW CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/acton-institute/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/against-crony-capitialism/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/aish-com/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED</strong><strong><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/alberta-press-leader/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>Canada<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span></strong><strong><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/altnewsmedia-net/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>United Kingdom (33/180 Press Freedom)<br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff0000;"><strong>LOW CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/amac-association-of-mature-american-citizens/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/america-first-action-superpac/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating:<span style="color: #ff6600;"> <strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/america-rising-pac/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/american-center-law-justice-aclj/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/american-consequences/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff0000;"><strong>LOW CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/american-conservative-union-acu-bias/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/american-enterprise-institute/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span><strong>Country: USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/americans-for-prosperity/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff0000;"><strong>LOW CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/americans-for-tax-reform/': <p style="text-align: center;"><span style="color: #ff0000;"><strong><span style="text-decoration: underline;"><a href="https://mediabiasfactcheck.com/login/" style="color: #ff0000; text-decoration: underline;">Ad-Free Login</a></span><br/>
+</strong></span><span style="text-decoration: underline;"><a href="https://mediabiasfactcheck.com/membership-account/membership-levels/">Ad-Free Sign up</a></span><br/>
+<span style="text-decoration: underline;"><a href="https://mediabiasfactcheck.com/support-media-bias-fact-check/">Support MBFC – Donations</a></span><br/>
+<span style="text-decoration: underline;"><a href="https://mediabiasfactcheck.com/filtered-search/">Filtered Search</a></span><br/>
+<a href="https://mediabiasfactcheck.com/interactive-maps-and-charts-by-mbfc/"><span style="text-decoration: underline;">Interactive Maps and Charts by MBFC (NEW)</span></a></p>, 'https://mediabiasfactcheck.com/american-foreign-policy-council/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong><span style="color: #808000;"> MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/american-greatness/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #ff0000;"><strong>RIGHT</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/american-journal-daily-bias/': <p>Bias Rating: <strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong>Factual Reporting: <strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/american-legislative-exchange-council-alec/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/american-spectator/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/american-wire-news/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/ami-magazine/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #808000;"><strong>MOSTLY FACTUAL</strong></span><span style="color: #ff6600;"><strong><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/ammoland/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><b><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</b></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/anadolu-agency/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #ff0000;"><strong>RIGHT</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>Turkey<br/>
+</strong>MBFC’s Country Freedom Rating: <strong><span style="color: #ff6600;">LIMITED FREEDOM</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>News Agency<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/arizona-daily-independent/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/armstrong-economics/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>MBFC’s Country Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/asian-dawn/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/asiannews-it/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #ff0000;"><strong>RIGHT</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>Italy<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE</span></strong><strong><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>News Agency<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/assyrian-international-news-agency/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/the-badger-institute/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #ff0000;"><strong>RIGHT</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/bearing-arms/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/beliefnet/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/bizpac-review/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/blabber-buzz/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/black-community-news-bias/': <p><span style="font-size: 12pt;">Bias Rating:<span style="color: #ff0000;"><strong> RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>United States<br/>
+</strong>MBFC Country Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/blue-lives-matter/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #ff0000;"><strong>RIGHT</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/bounding-into-comics/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/brownstone-institute-bias/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>MBFC’s Country Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/c2c-journal/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Canada<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span></strong><strong><br/>
+</strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/calgary-sun/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT-CENTER</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #808000;"><strong>MOSTLY FACTUAL</strong></span><span style="color: #ff6600;"><strong><br/>
+</strong></span>Country: <strong>Canada<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span></strong><strong><br/>
+</strong>Media Type: <strong>Newspaper<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/campaign-life-coalition/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>Canada<br/>
+</strong>Press Freedom Rank:<strong><span style="color: #808000;"> MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/campus-reform/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <b>USA<br/>
+</b>Press Freedom Rank:<strong><span style="color: #808000;"> MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/capital-research-center/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #ff0000;"><strong>RIGHT</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><b><span style="color: #ff6600;">MIXED</span><br/>
+</b></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong><span style="color: #808000;"> MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/center-for-freedom-and-prosperity/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/center-of-the-american-experiment/': <p><span style="font-size: 12pt;">Bias Rating:<span style="color: #ff0000;"><strong> RIGHT<br/>
+</strong></span></span><span style="font-size: 12pt;">Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic<br/>
+</strong>MBFC Credibility Rating: <span style="color: #ff0000;"><strong>LOW CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/chicks-on-the-right/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Radio Station/Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/christian-coalition-of-america-cca-bias-rating/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/christian-headlines/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/christian-news-alerts/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/christian-post/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/christian-today/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #ff0000;"><strong>RIGHT</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/chronicles-magazine-rockford/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/citizen-free-press/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/citizens-against-government-waste-cagw/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/citizens-united/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/city-journal/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/civitas-institute/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/claremont-institute/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/cold-dead-hands/': <p>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff6600;"><strong>USA 48/180</strong></span></p>, 'https://mediabiasfactcheck.com/commentary-magazine/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/conservative-brief-bias/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country:<strong> USA</strong><br/>
+Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/conservative-fighters/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>TV Station<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/conservative-home/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT-CENTER</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/conservative-hq/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/conservative-institute/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/conservativeopinion-com/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/conservative-partnership-institute/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><b><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</b></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/ Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/conservative-review/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/conservative-today/': <p>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/crime-prevention-research-center/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/crisis-magazine/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/daily-caller/': <p>Bias Rating: <strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong>Factual Reporting: <strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/daily-express/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #ff0000;"><strong>RIGHT</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED</strong><strong><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Newspaper<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/the-daily-liberator/': <p>Factual Reporting:<strong> <span style="color: #ff6600;">MIXED<br/>
+</span></strong>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/daily-reckoning/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA (44/180 Press Freedom)<br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/daily-signal/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #ff0000;"><strong>RIGHT</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/daily-telegraph/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Newspaper<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/dc-enquirer-bias/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/dc-statesman/': <p>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/daily-torch/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/dennismichaellynch-com-bias/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/de-telegraaf/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Netherlands<br/>
+</strong>Press Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><br/>
+</strong>Media Type: <strong>Newspaper<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/disrn/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #ff0000;"><strong>RIGHT</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> MOSTLY FREE<br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/dml-news/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/donaldjtrump-com/': <p>Questionable Reasoning: <span style="color: #ff6600;"><strong><span style="color: #ff0000;">Poor Sourcing, Conspiracy Theories, Propaganda, Failed Fact Checks</span><br/>
+</strong></span><span style="font-size: 12pt;">Bias Rating:<span style="color: #ff0000;"><strong> FAR RIGHT<br/>
+</strong></span></span><span style="font-size: 12pt;">Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff0000;">LOW</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic<br/>
+</strong>MBFC Credibility Rating: <span style="color: #ff0000;"><strong>LOW CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/eagle-pass-news-leader/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/economicpolicyjournal-com/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/egypt-today-bias-credibility/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>Egypt<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #ff6600;"> LIMITED FREEDOM</span><br/>
+</strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/energy-citizens/': <p><span style="font-size: 12pt;">Bias Rating:<span style="color: #ff0000;"><strong> RIGHT<br/>
+</strong></span></span><span style="font-size: 12pt;">Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong></span><span style="font-size: 12pt;">Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic<br/>
+</strong>MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/ethics-public-policy-center-eppc/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/ethics-religious-liberty-commission-erlc/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/explain-america-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country:<strong> USA</strong></span><br/>
+<span style="font-size: 12pt;">Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/facts-and-logic-about-the-middle-east-flame/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/faithwire/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/fake-hate-crimes/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM</strong><strong> CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/federalist-society/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/first-things-magazine/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/florida-daily-bias/': <p><span style="font-size: 12pt;"><span style="font-weight: 400;">Florida Daily is a conservative website published by conservative radio host </span><a href="https://www.floridadaily.com/our-team/" rel="noopener" target="_blank"><span style="font-weight: 400;">Ed Dean</span></a><span style="font-weight: 400;">. Florida Daily offers “news, insights, and analysis” on Florida news and politics. Florida Daily does not have an about page, thereby lacking transparency.</span></span></p>, 'https://mediabiasfactcheck.com/foundation-defense-democracies/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>MinimalTraffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/free-republic/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/freedom-works/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT-CENTER</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-of-freedom/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/future-of-freedom-foundation-fff/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <b>Organization/Foundation<br/>
+</b>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/get-religion/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #808000;"><b>MOSTLY FACTUAL</b></span><span style="color: #ff6600;"><strong><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/government-accountability-institute/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff0000;"><strong>LOW CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/grabien-news/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/guido-fawkes/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/heritage-foundation/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #ff0000;"><strong>RIGHT</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <b>Organization/Foundation<br/>
+</b>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/hot-air/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #ff0000;"><strong>RIGHT</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/hudson-institute/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #ff0000;"><strong>RIGHT</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/human-events/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/hurriyet/': <p style="text-align: center;"><span style="color: #ff0000;"><strong><span style="text-decoration: underline;"><a href="https://mediabiasfactcheck.com/login/" style="color: #ff0000; text-decoration: underline;">Ad-Free Login</a></span><br/>
+</strong></span><span style="text-decoration: underline;"><a href="https://mediabiasfactcheck.com/membership-account/membership-levels/">Ad-Free Sign up</a></span><br/>
+<span style="text-decoration: underline;"><a href="https://mediabiasfactcheck.com/support-media-bias-fact-check/">Support MBFC – Donations</a></span><br/>
+<span style="text-decoration: underline;"><a href="https://mediabiasfactcheck.com/filtered-search/">Filtered Search</a></span><br/>
+<a href="https://mediabiasfactcheck.com/interactive-maps-and-charts-by-mbfc/"><span style="text-decoration: underline;">Interactive Maps and Charts by MBFC (NEW)</span></a></p>, 'https://mediabiasfactcheck.com/hurriyet-daily-news/': <p style="text-align: center;"><span style="color: #ff0000;"><strong><span style="text-decoration: underline;"><a href="https://mediabiasfactcheck.com/login/" style="color: #ff0000; text-decoration: underline;">Ad-Free Login</a></span><br/>
+</strong></span><span style="text-decoration: underline;"><a href="https://mediabiasfactcheck.com/membership-account/membership-levels/">Ad-Free Sign up</a></span><br/>
+<span style="text-decoration: underline;"><a href="https://mediabiasfactcheck.com/support-media-bias-fact-check/">Support MBFC – Donations</a></span><br/>
+<span style="text-decoration: underline;"><a href="https://mediabiasfactcheck.com/filtered-search/">Filtered Search</a></span><br/>
+<a href="https://mediabiasfactcheck.com/interactive-maps-and-charts-by-mbfc/"><span style="text-decoration: underline;">Interactive Maps and Charts by MBFC (NEW)</span></a></p>, 'https://mediabiasfactcheck.com/bleed-red-white-blue/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong><span style="color: #808000;"> MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/illinois-policy-institute/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/imprimis-hillsdale-college/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/independent-journal-review/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/independent-womens-forum-iwf/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><b><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</b></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/influence-watch/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/institute-for-family-studies/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/intellectual-takeout/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/investors-business-daily/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Newspaper<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/israel-hayom/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Israel<br/>
+</strong>Press Freedom Rating:<strong><span style="color: #ff9900;"> MODERATE FREEDOM</span><br/>
+</strong>Media Type: <strong>Newspaper<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/issues-insights/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/jewish-policy-center/': <p data-iceapc="2" data-iceapw="3">Bias Rating: <span style="color: #0000ff;"><span style="color: #ff0000;"><strong>RIGHT</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/jewish-world-review/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/judicial-crisis-network/': <p>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/kansas-policy-institute-kpi/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/kronen-zeitung-bias/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Newspaper<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/latestly-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>India<br/>
+</strong><span style="color: #808000;"><span style="color: #333333;">MBFC’s Country Freedom Rating:</span> </span><strong><span style="color: #808000;"><span style="color: #ff9900;">MODERATE FREEDOM</span></span></strong><strong><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/law-liberty-bias/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/law-enforcement-today/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/legal-insurrection/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/le-journal-de-montreal/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Canada<br/>
+</strong>MBFC’s Country Freedom Rating:<span style="color: #008000;"><strong> EXCELLENT FREEDOM</strong></span><strong><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Newspaper<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/liberty-headlines/': <p style="text-align: center;"><span style="color: #ff0000;"><strong><span style="text-decoration: underline;"><a href="https://mediabiasfactcheck.com/login/" style="color: #ff0000; text-decoration: underline;">Ad-Free Login</a></span><br/>
+</strong></span><span style="text-decoration: underline;"><a href="https://mediabiasfactcheck.com/membership-account/membership-levels/">Ad-Free Sign up</a></span><br/>
+<span style="text-decoration: underline;"><a href="https://mediabiasfactcheck.com/support-media-bias-fact-check/">Support MBFC – Donations</a></span><br/>
+<span style="text-decoration: underline;"><a href="https://mediabiasfactcheck.com/filtered-search/">Filtered Search</a></span><br/>
+<a href="https://mediabiasfactcheck.com/interactive-maps-and-charts-by-mbfc/"><span style="text-decoration: underline;">Interactive Maps and Charts by MBFC (NEW)</span></a></p>, 'https://mediabiasfactcheck.com/liberty-nation/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/lone-conservative/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/lozier-institute/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/manhattan-institute-for-policy-research/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/media-research-center-mrc/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/media-right-news-bias/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/mercatornet/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>Australia<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/milliyet/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>Turkey<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #ff6600;"> LIMITED FREEDOM</span><br/>
+</strong>Media Type: <strong>Newspaper<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/mises-daily/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/mxm-news-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/national-catholic-register/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Newspaper<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/national-center-public-policy-research-ncppr/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/national-federation-of-republican-women/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/national-review/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/new-boston-post/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/newsbusters/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/newspageindex-com-the-newsroom-bias/': <p>Bias Rating: <strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong>Factual Reporting: <strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/new-york-sun-bias/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/ngo-monitor-bias/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span><span style="font-size: 12pt;">Country: </span><strong><span style="font-size: 12pt;">Israel<br/>
+</span></strong><span style="font-size: 12pt;">Press Freedom Rating: </span><strong><span style="font-size: 12pt;"><span style="color: #808000;"><span style="color: #ff9900;">MODERATE FREEDOM</span><br/>
+</span></span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/not-the-bee/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/nova24tv/': <p><span style="font-size: 12pt;">Bias Rating:<span style="color: #ff0000;"><strong> FAR-RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>Slovenia<br/>
+</strong>MBFC’s Country Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>TV Station<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/nra-institute-for-legislative-action/': <p>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED</strong></span><br/>
+Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/ntk-network/': <p>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/numbers-usa/': <p><em><strong>History</strong></em></p>, 'https://mediabiasfactcheck.com/offgrid-survival/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/one-angry-gamer/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/ontario-proud/': <p>Factual Reporting: <span style="color: #008000;"><strong>HIGH<br/>
+</strong></span>Country: <strong>Canada<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>Canada 16/180</strong></span></p>, 'https://mediabiasfactcheck.com/openvaers-bias/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>Unknown<br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/opslens/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong><span style="color: #808000;"> MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/outkick/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT-CENTER</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/panam-post/': <p>Factual Reporting: <span style="color: #008000;"><strong>HIGH<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff6600;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/pants-on-fire-news/': <p><span style="font-size: 12pt;">Questionable Reasoning: <span style="color: #ff6600;"><strong><span style="color: #ff0000;">Conspiracy Theories, Propaganda, Poor Sourcing, Lack of Transparency</span></strong></span><span style="color: #ff0000;"><strong><br/>
+</strong></span>Bias Rating:<span style="color: #ff0000;"><strong> FAR RIGHT<br/>
+</strong></span></span><span style="font-size: 12pt;">Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic<br/>
+</strong>MBFC Credibility Rating: <span style="color: #ff0000;"><strong>LOW CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/patriot-news-alerts/': <p>Factual Reporting: <strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/patriot-news-daily/': <p>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span><span style="color: #ff6600;"><span style="color: #000000;">Country:</span><strong><span style="color: #000000;"> USA</span><br/>
+</strong></span>World Press Freedom Rank:<span style="color: #ff9900;"><strong> USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/patriotretort-com/': <p>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff6600;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/pluralist/': <p>Factual Reporting: <span style="color: #008000;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/politcalite-uk/': <p>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <span style="color: #000000;"><strong>United Kingdom<br/>
+</strong></span>World Press Freedom Rank: <span style="color: #ff9900;"><strong>UK 35/180</strong></span></p>, 'https://mediabiasfactcheck.com/politichicks/': <p>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/populist-wire/': <p>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/power-line/': <p>Factual Reporting: <span style="color: #008000;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/proud-conservatives/': <p style="text-align: center;"><span style="color: #ff0000;"><strong><span style="text-decoration: underline;"><a href="https://mediabiasfactcheck.com/login/" style="color: #ff0000; text-decoration: underline;">Ad-Free Login</a></span><br/>
+</strong></span><span style="text-decoration: underline;"><a href="https://mediabiasfactcheck.com/membership-account/membership-levels/">Ad-Free Sign up</a></span><br/>
+<span style="text-decoration: underline;"><a href="https://mediabiasfactcheck.com/support-media-bias-fact-check/">Support MBFC – Donations</a></span><br/>
+<span style="text-decoration: underline;"><a href="https://mediabiasfactcheck.com/filtered-search/">Filtered Search</a></span><br/>
+<a href="https://mediabiasfactcheck.com/interactive-maps-and-charts-by-mbfc/"><span style="text-decoration: underline;">Interactive Maps and Charts by MBFC (NEW)</span></a></p>, 'https://mediabiasfactcheck.com/public-interest-legal-foundation/': <p>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/quadrant-magazine/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <b>Australia<br/>
+</b>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff0000;"><strong>LOW CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/readers-digest/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #ff0000;"><strong>RIGHT</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/real-americas-voice/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong><b>USA<br/>
+</b></strong>Press Freedom Rating: <strong><b><span style="color: #808000;">MOSTLY FREE<br/>
+</span></b></strong>Media Type: <strong>TV Station/Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/red-alert-politics/': <p style="text-align: center;"><span style="color: #ff0000;"><strong><span style="text-decoration: underline;"><a href="https://mediabiasfactcheck.com/login/" style="color: #ff0000; text-decoration: underline;">Ad-Free Login</a></span><br/>
+</strong></span><span style="text-decoration: underline;"><a href="https://mediabiasfactcheck.com/membership-account/membership-levels/">Ad-Free Sign up</a></span><br/>
+<span style="text-decoration: underline;"><a href="https://mediabiasfactcheck.com/support-media-bias-fact-check/">Support MBFC – Donations</a></span><br/>
+<span style="text-decoration: underline;"><a href="https://mediabiasfactcheck.com/filtered-search/">Filtered Search</a></span><br/>
+<a href="https://mediabiasfactcheck.com/interactive-maps-and-charts-by-mbfc/"><span style="text-decoration: underline;">Interactive Maps and Charts by MBFC (NEW)</span></a></p>, 'https://mediabiasfactcheck.com/red-state/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #ff0000;"><strong>RIGHT</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/regated-news/': <p>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/richochet/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA (44/180 Press Freedom)<br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/right-free/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/ron-paul-liberty-report/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/daily-sabah/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #ff0000;"><strong>RIGHT</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>Turkey<br/>
+</strong>MBFC’s Country Freedom Rank:<strong><span style="color: #ff6600;"> LIMITED FREEDOM</span><br/>
+</strong>Media Type: <strong>Newspaper<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/santa-barbara-news-press/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Newspaper<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/save-jersey/': <p>Factual Reporting: <span style="color: #008000;"><strong>HIGH<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/sentinel-ksmo/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>USA (44/180 Press Freedom)<br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating:<span style="color: #ff6600;"> <strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/shore-news-network-bias/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span><strong>Country: USA<br/>
+Press Freedom Rating: <span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/sinclair-broadcast-group/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA (44/180 Press Freedom)<br/>
+</strong>Media Type: <strong>TV Stations<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/sky-news-australia/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>Australia<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>TV Station<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/sonoran-news/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Newspaper<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/sons-of-1776/': <p>Bias Rating: <span style="color: #ff0000;"><strong>FAR </strong></span><span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/spiked-magazine/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>United Kingdom (33/180 Press Freedom)<br/>
+</strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/standpoint-magazine/': <p>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>UK 35/180</strong></span></p>, 'https://mediabiasfactcheck.com/star-political/': <p>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED</strong></span><br/>
+Country: <strong>USA<br/>
+</strong>World Press Freedom Rank:<span style="color: #ff9900;"><strong> USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/tampa-free-press-bias/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/tatum-report/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/tenth-amendment-center/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #ff0000;"><strong>RIGHT</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/the-advertiser/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>Australia<br/>
+</strong>MBFC’s Country Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Newspaper<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/the-america-first-policy-institute-afpi-bias/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/the-american-cause/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/the-american-mind/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT-CENTER</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/the-college-fix/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/the-conservative-woman/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED</strong><strong><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/the-daily-telegraph-australia/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>Australia<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Newspaper<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/the-first-tv/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website/TV<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/the-florida-standard-bias/': <p>Bias Rating: <strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong>Factual Reporting: <strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/thegreggjarrett-com/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/the-honest-patriot/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/theleoterrell-com/': <p><span style="font-weight: 400;">Bias Rating: </span><span style="color: #ff0000;"><b>RIGHT<br/>
+</b></span><span style="font-weight: 400;">Factual Reporting: </span><span style="color: #ff6600;"><b>MIXED<br/>
+</b></span>Country: <b><strong>USA<br/>
+</strong></b>Press Freedom Rating: <b><strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong></b><span style="font-weight: 400;">Media Type: </span><b>Website<br/>
+</b><span style="font-weight: 400;">Traffic/Popularity: <strong>Medium Traffic<br/>
+</strong></span><span style="font-weight: 400;">MBFC Credibility Rating: </span><span style="color: #ff6600;"><b>MEDIUM CREDIBILITY</b></span></p>, 'https://mediabiasfactcheck.com/the-library-of-economics-and-liberty-econlib/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/the-national-herald-tnh/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Newspaper<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/the-new-american/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/the-new-revere/': <p>Factual Reporting:<span style="color: #ff6600;"><strong> MIXED</strong></span><br/>
+Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff6600;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/the-patriot-post/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/the-post-millennial/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #ff0000;"><strong>RIGHT</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><b><span style="color: #ff6600;">MIXED</span><br/>
+</b></span>Country: <strong>Canada<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span></strong><strong><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/punchingbag-post/': <p>Factual Reporting: <span style="color: #ff6600;"><b>MIXED</b></span><span style="color: #008000;"><strong><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/the-star-malaysia/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>Malaysia<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #ff9900;">MODERATE FREEDOM</span><br/>
+</strong>Media Type: <strong>Newspaper<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/the-sun/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #ff0000;"><strong>RIGHT</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Newspaper<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/the-texan/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #0000ff;"><span style="color: #ff0000;"><strong>RIGHT</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong><b>USA<br/>
+</b></strong>MBFC’s Country Freedom Rating: <strong><b><span style="color: #808000;">MOSTLY FREE<br/>
+</span></b></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/the-truth-about-guns/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/the-us-sun-bias/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #ff0000;"><strong>RIGHT</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/timcast-tim-pool/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/tipp-insights-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/toronto-sun/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Canada<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span></strong><strong><br/>
+</strong>Media Type: <strong>Newspaper<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/trending-views/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #ff0000;"><strong>RIGHT</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/true-north-centre-for-public-policy/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>Canada<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span></strong><strong><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/trt-world/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #ff0000;"><strong>RIGHT</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>Turkey<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #ff6600;"> LIMITED FREEDOM</span><br/>
+</strong>Media Type: <strong>TV Station<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/twitchy/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/un-watch/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rank:<strong> <span style="color: #808000;"><span style="color: #008000;">EXCELLENT</span><br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/valuetainment-bias/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/washington-examiner/': <p><span style="font-weight: 400;"><a href="https://en.wikipedia.org/wiki/The_Washington_Examiner" rel="noopener noreferrer" target="_blank">Founded in 2005</a>, The Washington Examiner is an American political journalism website and weekly magazine based in Washington, D.C., covering politics and policy in the United States and internationally. The current editor is Hugo Gordon. </span></p>, 'https://mediabiasfactcheck.com/washington-free-beacon/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #ff0000;"><strong>RIGHT</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/watchdog-report/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span><span style="font-size: 12pt;">Country: </span><strong><span style="font-size: 12pt;">USA<br/>
+</span></strong><span style="font-size: 12pt;">Press Freedom Rating: </span><strong><span style="font-size: 12pt;"><span style="color: #808000;">MOSTLY FREE<br/>
+</span></span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/weasel-zippers/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/western-standard-bias/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>Canada<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span></strong><strong><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/wikiislam/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/world-magazine/': <p>Bias Rating: <span style="color: #ff0000;"><strong>RIGHT</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #ff6600;">MIXED</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/yellowhammer-news/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #ff0000;"><strong>RIGHT</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/young-americas-foundation-yaf/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #ff0000;">RIGHT</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong>MIXED<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>}

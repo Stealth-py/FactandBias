@@ -1,0 +1,1430 @@
+{'https://mediabiasfactcheck.com/acoustics-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #808000;"><span style="color: #008000;">EXCELLENT</span><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/acta-neuropathologica-communications-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/actuators-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/administrative-sciences-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong><span style="color: #333300;">MBFC’s Country Freedom Rating:</span><strong><span style="color: #808000;"><span style="color: #008000;"> EXCELLENT</span><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/adolescents-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/advances-on-respiratory-medicine-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/aerospace-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/agriculture-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/agriengineering-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/agrochemicals-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/agronomy-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/ai-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/air-space-magazine/': <p>Bias Rating: <span style="color: #008000;"><strong>LEAST BIASED</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY</strong></span> <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/air-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/algorithms-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/allergies-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/alliance-for-science/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/alloys-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/alzheimers-research-therapy-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/american-academy-of-pediatrics/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY-</strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/american-association-for-the-advancement-of-science-aaas/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>MBFC Country Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/american-cancer-society-bias/': <p data-iceapc="2" data-iceapw="4">Bias Rating: <strong><span style="color: #008000;">PRO-SCIENCE</span></strong><span style="color: #0000ff;"><br/>
+</span>Factual Reporting: <strong><span style="color: #008000;">VERY </span></strong><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span></strong><br/>
+</span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/american-geophysical-union-agu/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">VERY HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/american-journal-of-archaeology/': <p>Bias Rating: <span style="color: #ff0000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/american-journal-of-public-health-ajph/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">VERY HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/american-lung-association/': <p>Bias Rating: <span style="color: #0000ff;"><strong>PRO-SCIENCE/</strong><strong><span style="color: #0000ff;">LEFT-CENTER</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong><b>USA<br/>
+</b></strong>Press Freedom Rating: <strong><b><span style="color: #808000;">MOSTLY FREE<br/>
+</span></b></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/american-medical-association-ama/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/american-physical-society-aps/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/american-psychiatric-association/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #0000ff;"><strong>PRO-SCIENCE (LEFT-LEANING)</strong><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/american-psychoanalytic-association/': <p>Bias Rating: <span style="color: #0000ff;"><strong>PRO-SCIENCE (LEFT-LEANING)</strong><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/american-psychological-association-apa/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic<br/>
+</strong>Credibility: <strong><span style="color: #008000;">HIGH CREDIBILITY</span></strong></p>, 'https://mediabiasfactcheck.com/american-scientist/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">VERY HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/analytica-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/analytics-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/anatomia-journal-credibility/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><br/>
+</strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/animals-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/anxiety-and-depression-association-of-america-adaa/': <p>Bias Rating: <span style="color: #008000;"><strong>LEAST – PRO SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY</strong></span> <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA (44/180 Press Freedom)<br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/antibiotics-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/antibodies-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/antioxidants-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/applied-biosciences-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/appliedchem-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/appliedmath-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #008000;"><span style="color: #808000;"><span style="color: #008000;">EXCELLENT</span><br/>
+</span></span></strong></span><span style="font-size: 12pt;">Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/applied-mechanics-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/applied-microbiology-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/applied-nano-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/applied-sciences-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/applied-system-innovation-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/aquaculture-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> </span><span style="color: #808000;"><span style="color: #008000;">EXCELLENT</span><br/>
+</span></strong></span><span style="font-size: 12pt;">Media Type: </span><strong style="font-size: 12pt;">Journal<br/>
+</strong><span style="font-size: 12pt;">Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/archaeology-magazine/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/architecture-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> </span><span style="color: #808000;"><span style="color: #008000;">EXCELLENT</span><br/>
+</span></strong></span><span style="font-size: 12pt;">Media Type: </span><strong style="font-size: 12pt;">Journal<br/>
+</strong><span style="font-size: 12pt;">Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/arthropoda-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> </span><span style="color: #808000;"><span style="color: #008000;">EXCELLENT</span><br/>
+</span></strong></span><span style="font-size: 12pt;">Media Type: </span><strong style="font-size: 12pt;">Journal<br/>
+</strong><span style="font-size: 12pt;">Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/astronomy-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> </span><span style="color: #808000;"><span style="color: #008000;">EXCELLENT</span><br/>
+</span></strong></span><span style="font-size: 12pt;">Media Type: </span><strong style="font-size: 12pt;">Journal<br/>
+</strong><span style="font-size: 12pt;">Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/astronomy-magazine/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">VERY-HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/australian-skeptics-inc/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>Australia<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/autistic-self-advocacy-network/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY-</strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/bbc-science-focus-bias/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #008000;">PRO-SCIENCE</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span><span style="font-size: 12pt;">Country: </span><strong><span style="font-size: 12pt;">United Kingdom<br/>
+</span></strong><span style="font-size: 12pt;">Press Freedom Rank: </span><strong><span style="font-size: 12pt;"><span style="color: #808000;">MOSTLY FREE<br/>
+</span></span></strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/behavioral-and-brain-functions-journal-credibility/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/bioelectronic-medicine-journal-credibility/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'http://biologicalproceduresonline.biomedcentral.com': <p class="c-listing__authors u-mb-0" data-test="authors"><span class="u-visually-hidden">Authors: </span>Yihong Chen, Haicheng Wen, Yin Li, Ying Han, Jun Tan, Cao Guo, Changjing Cai, Ping Liu, Yinghui Peng, Yihan Liu, Xinwen Wang, Shan Zeng, Ziyang Feng and Hong Shen</p>, 'https://mediabiasfactcheck.com/biology-of-sex-differences-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/biomarker-research-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/biomed-central-bmc/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/biospace/': <p>Bias Rating: <span style="color: #0000ff;"><strong>PRO-SCIENCE</strong><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong><b>USA<br/>
+</b></strong>Press Freedom Rating: <strong><b><span style="color: #808000;">MOSTLY FREE<br/>
+</span></b></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/biotechnology-innovation-organization-bio/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY</strong></span> <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/bmc-cancer-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/bmc-immunology-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/bmc-medical-genomics-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/bmc-neuroscience-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/bmc-pharmacology-and-toxicology-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/bmc-research-notes-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>MBFC’s Country Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/breast-cancer-research-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>MBFC’s Country Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/british-journal-of-biomedical-science-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/cancer-metabolism-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>MBFC’s Country Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/cancer-cell-journal-credibility/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/carbon-brief/': <p><span style="font-weight: 400;">Bias Rating: </span><b><span style="color: #0000ff;">LEFT-CENTER</span><br/>
+</b><span style="font-weight: 400;">Factual Reporting: </span><b><span style="color: #008000;">HIGH</span><br/>
+</b>Country: <b><strong>United Kingdom<br/>
+</strong></b>Press Freedom Rating: <b><strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong></b><span style="font-weight: 400;">Media Type: </span><b>Website<br/>
+</b><span style="font-weight: 400;">Traffic/Popularity: </span><b>Medium Traffic<br/>
+</b><span style="font-weight: 400;">MBFC Credibility Rating: </span><span style="color: #008000;"><b>HIGH CREDIBILITY</b></span></p>, 'https://mediabiasfactcheck.com/cell-chemical-biology-journal-credibility/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/cell-genomics-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/cell-host-microbe-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/cell-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/cell-metabolism-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/cell-reports-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/cell-reports-medicine-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/cell-reports-methods-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/cell-reports-physical-science-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/cell-systems-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>MBFC’s Country Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/cell-reports-sustainability-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/cell-stem-cell-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>MBFC’s Country Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/centers-disease-control-prevention-cdc/': <p data-iceapc="2" data-iceapw="4">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/chem-journal-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>MBFC’s Country Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/climate-action-tracker/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY</strong></span> <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>Germany<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/climate-central/': <p>Bias Rating: <span style="color: #0000ff;"><strong>LEFT-CENTER – PRO-SCIENCE</strong><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/climate-feedback/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>France<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/climate-science-and-policy-watch/': <p>Bias Rating: <span style="color: #0000ff;"><strong>LEFT-CENTER PRO-SCIENCE</strong><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/cochrane/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <strong><span style="color: #008000;">VERY </span></strong><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/consumerlab-com/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/contagion-live-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY</strong></span> <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/cosmos-magazine/': <p data-iceapc="2" data-iceapw="4">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>Australia<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/covid-gov-bias/': <p data-iceapc="2" data-iceapw="4">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/disability-scoop/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #008000;">PRO-SCIENCE</span><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span><span style="font-size: 12pt;">Country: </span><strong><span style="font-size: 12pt;">USA<br/>
+</span></strong><span style="font-size: 12pt;">Press Freedom Rank: </span><strong><span style="font-size: 12pt;"><span style="color: #808000;">MOSTLY FREE<br/>
+</span></span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/discover-magazine/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/drugs-com/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">VERY HIGH</span><br/>
+</strong></span>Country: <strong>New Zealand<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/earth-sky/': <p data-iceapc="2" data-iceapw="4">Bias Rating: <span style="color: #0000ff;"><strong>PRO-SCIENCE</strong><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/encyclopedia-britannica/': <p>Bias Rating: <span style="color: #008000;"><strong>LEAST PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/eurekaalert/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/everyday-health-science-credible/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/examine-com/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>Canada<br/>
+</strong><span style="font-size: 12pt;">MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span></strong></span><strong><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic<br/>
+</strong>MBFC Credibility Rating:<strong> <span style="color: #008000;">HIGH</span></strong></p>, 'https://mediabiasfactcheck.com/federation-of-american-scientists-fas/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journals<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-aerospace-engineering-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="font-size: 12pt; color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-aging-credibility/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="font-size: 12pt; color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-aging-neuroscience-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #008000;">EXCELLENT<br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-agronomy-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-allergy-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-analytical-science/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-anesthesiology-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-animal-science-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-antennas-and-propagation-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #808000;"><span style="color: #008000;">EXCELLENT</span><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-antibiotics-credibility/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-applied-mathematics-and-statistics-credibility/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #808000;"><span style="color: #008000;">EXCELLENT</span><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-aquaculture-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #808000;"><span style="color: #008000;">EXCELLENT</span><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-arachnid-science-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #808000;"><span style="color: #008000;">EXCELLENT</span><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-artificial-intelligence-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #808000;"><span style="color: #008000;">EXCELLENT</span><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-astronomy-and-space-science/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #808000;"><span style="color: #008000;">EXCELLENT</span><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-audiology-and-otology/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #808000;"><span style="color: #008000;">EXCELLENT</span><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-batteries-and-electrochemistry-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFc’s Country Freedom Rating:<strong> <span style="color: #808000;"><span style="color: #008000;">EXCELLENT</span><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-bee-science-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #808000;"><span style="color: #008000;">EXCELLENT</span><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-behavioral-economics-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #808000;"><span style="color: #008000;">EXCELLENT</span><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-behavioral-neuroscience-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #808000;"><span style="color: #008000;">EXCELLENT</span><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-big-data-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #808000;"><span style="color: #008000;">EXCELLENT</span><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-bioengineering-and-biotechnology-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #808000;"><span style="color: #008000;">EXCELLENT</span><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-bioinformatics-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #808000;"><span style="color: #008000;">EXCELLENT</span><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-biomaterials-science-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #808000;">EXCELLENT<br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-bird-science-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #808000;"><span style="color: #008000;">EXCELLENT</span><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-blockchain-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #808000;"><span style="color: #008000;">EXCELLENT</span><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-built-environment-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #808000;"><span style="color: #008000;">EXCELLENT</span><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-carbon-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #808000;"><span style="color: #008000;">EXCELLENT</span><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-cardiovascular-medicine-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #808000;"><span style="color: #008000;">EXCELLENT</span><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontier-in-catalysis-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #808000;"><span style="color: #008000;">EXCELLENT</span><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/frontiers-in-cell-and-development-bias/': <p>Snopes has been reviewed several times since this article was written in 2017. Their rating has changed to reflect changes in our methodology. They are…</p>, 'https://mediabiasfactcheck.com/frontiers-in-psychology/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/futurism/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong><span style="color: #808000;"> MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/futurity-bias/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/genetic-engineering-and-biotechnology-news-gen/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/genetic-literacy-project/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/healio/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/health-affairs-journal/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/health-feedback/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>France (34/180 Press Freedom)<br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/healthline/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/inside-science/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/institute-of-electrical-and-electronics-engineers-ieee/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">VERY HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/institute-for-health-metrics-and-evaluation-healthdata-org/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/institute-of-physics-iop/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/international-renewable-energy-agency-irena/': <p>Bias Rating:<span style="color: #008000;"> <strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>United Arab Emirates<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #ff6600;">Limited Freedom</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/issues-in-science-and-technology/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Journal</strong><br/>
+Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/james-randi-educational-foundation/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong><span style="color: #808000;"> MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/johns-hopkins-medicine/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/jstore/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/live-science/': <p>Bias Rating: <span style="color: #0000ff;"><strong>PRO-SCIENCE</strong><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/mayo-clinic/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/mdpi-multidisciplinary-digital-publishing-institute-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #808000;">MOSTLY FACTUAL</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Journals<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/medical-news-today/': <p data-iceapc="2" data-iceapw="4">Bias Rating: <span style="color: #0000ff;"><span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>United States<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/medicalxpress/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>Netherlands<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/medpage-today/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #008000;">PRO-SCIENCE</span><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY-</strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span><span style="font-size: 12pt;">Country: </span><strong><span style="font-size: 12pt;">USA<br/>
+</span></strong><span style="font-size: 12pt;">Press Freedom Rank: </span><strong><span style="font-size: 12pt;"><span style="color: #808000;">MOSTLY FREE<br/>
+</span></span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>MediumTraffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/medscape/': <p>Bias Rating: <strong><span style="color: #008000;">PRO-SCIENCE</span><br/>
+</strong>Factual Reporting: <strong><span style="color: #008000;">VERY HIGH</span><br/>
+</strong>Country: <strong>USA (44/180 Press Freedom)<br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/mental-daily/': <p>Bias Rating: <span style="color: #0000ff;"><strong>PRO-SCIENCE</strong><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/mit-technology-review/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/nasa/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY-</strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/national-academy-of-sciences-nas/': <p>Factual Reporting: <span style="color: #008000;"><strong>VERY HIGH<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/national-centers-environmental-information-ncei/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">VERY HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/national-geographic/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/national-institutes-of-health-nih/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/national-oceanic-and-atmospheric-administration-noaa/': <p>Bias Rating: <span style="color: #ff0000;"><strong><span style="color: #008000;">PRO-SCIENCE</span></strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/nature/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY</strong></span> <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/nautilus-magazine/': <p>Bias Rating: <span style="color: #0000ff;"><strong>PRO-SCIENCE</strong><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/neuroscience-news/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/new-atlas/': <p>Bias Rating: <strong><span style="color: #008000;">PRO-SCIENCE</span></strong><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/new-england-journal-of-medicine-nejm/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/new-humanist/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/new-scientist/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/news-medical-net-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span> / <span style="color: #008000;"><strong>LEAST BIASED</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #808000;"><b>MOSTLY FACTUAL</b></span><span style="color: #ff6600;"><strong><br/>
+</strong></span><span style="font-size: 12pt;">Country: </span><strong><span style="font-size: 12pt;">Australia<br/>
+</span></strong><span style="font-size: 12pt;">Press Freedom Rating: </span><strong><span style="font-size: 12pt;"><span style="color: #808000;">MOSTLY FREE<br/>
+</span></span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/next-big-future/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>MBFC’s Country Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/oceana/': <p>Bias Rating: <span style="color: #0000ff;"><strong>PRO-SCIENCE</strong><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA (44/180 Press Freedom)<br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/pan-american-health-organization-paho/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/phys-org/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>United Kingdom (33/180 Press Freedom)<br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/political-psychology-journal/': <p>Factual Reporting: <span style="color: #008000;"><strong>VERY HIGH<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/popular-mechanics/': <p>Factual Reporting: <span style="color: #008000;"><strong>HIGH<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/popular-science/': <p>Factual Reporting: <span style="color: #008000;"><strong>HIGH<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/precision-vaccinations/': <p>Factual Reporting: <span style="color: #008000;"><strong>HIGH<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/proceedings-of-the-national-academy-of-sciences-of-the-united-states-of-america-pnas/': <p>Factual Reporting: <span style="color: #008000;"><strong>VERY HIGH<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/psych-central/': <p>Bias Rating: <span style="color: #0000ff;"><strong>PRO-SCIENCE</strong><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/psychiatric-times/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/psychology-today/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/psypost/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/public-library-science-plos/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA (44/180 Press Freedom)<br/>
+</strong>Media Type: <strong>Journal/Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/pubmed/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website/Journal<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/quackwatch/': <p>Factual Reporting: <span style="color: #008000;"><strong>HIGH<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/quanta-magazine/': <p>Bias Rating: <span style="color: #ff0000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA (44/180 Press Freedom)<br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/real-clear-science/': <p>Factual Reporting: <span style="color: #008000;"><strong>HIGH<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank:<span style="color: #ff9900;"><strong> USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/realclimate/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA (44/180 Press Freedom)<br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/researchgate/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>Germany<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/resource-watch/': <p data-iceapc="2" data-iceapw="4">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/retraction-watch/': <p>Factual Reporting: <span style="color: #008000;"><strong>HIGH<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/sage-journals/': <p>Factual Reporting: <span style="color: #008000;"><strong>HIGH<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff6600;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/scicentral/': <p>Factual Reporting: <span style="color: #008000;"><strong>HIGH<br/>
+</strong></span>Country: <strong>France<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>France 34/180</strong></span></p>, 'https://mediabiasfactcheck.com/science-2-0/': <p><span style="font-size: 12pt;">Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #808000;"><b><span style="color: #008000;">HIGH</span><br/>
+</b></span>Country: <strong>United States<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong></span><br/>
+<span style="font-size: 12pt;">MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></span></p>, 'https://mediabiasfactcheck.com/science-magazine/scienceadvances-journal-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA (44/180 Press Freedom)<br/>
+</strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/science-based-medicine/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA (44/180 Press Freedom)<br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/scienceblogs/': <p>Factual Reporting: <span style="color: #008000;"><strong>HIGH<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/science-daily/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA (45/180 Press Freedom)<br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/sciencedirect/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>Netherlands<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #008000;">EXCELLENT</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/science-feedback/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>France<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/science-history-institute/': <p>Factual Reporting: <span style="color: #008000;"><strong>HIGH<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff6600;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/science-illustrated/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>Australia<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website/Magazine<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/science-immunology-journal-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/science-magazine/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/science-media-centre/': <p>Factual Reporting: <span style="color: #008000;"><strong>HIGH<br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>UK 35/180</strong></span></p>, 'https://mediabiasfactcheck.com/science-news/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA (44/180 Press Freedom)<br/>
+</strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/science-robotics-journal-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/science-signaling-journal/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/science-translational-medicine/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/sciencealert/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>Australia<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/scientific-american/': <p>Bias Rating: <span style="color: #0000ff;"><strong>LEFT-CENTER</strong><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/scitechdaily/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;">HIGH</span><span style="color: #ff6600;"><br/>
+</span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #ff6600;"><strong>MEDIUM CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/scripps-institution-oceanography/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/seeker-daily/': <p>Factual Reporting: <span style="color: #008000;"><strong>HIGH<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/significance-magazine/': <p>Factual Reporting: <span style="color: #008000;"><strong>HIGH<br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>UK 35/180</strong></span></p>, 'https://mediabiasfactcheck.com/singularityhub/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/skeptic-magazine/': <p>Factual Reporting: <span style="color: #008000;"><strong>HIGH<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/skeptical-inquirer/': <p>Factual Reporting: <span style="color: #008000;"><strong>VERY HIGH<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/skeptical-raptor/': <p>Factual Reporting:<span style="color: #ff6600;"><strong> MIXED<br/>
+</strong></span>Country: <strong>Canada<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>Canada 16/180</strong></span></p>, 'https://mediabiasfactcheck.com/skeptical-science/': <p>Factual Reporting: <span style="color: #008000;"><strong>VERY HIGH<br/>
+</strong></span>Country: <strong>Australia<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>Australia 26/180</strong></span></p>, 'https://mediabiasfactcheck.com/skeptoid/': <p>Bias Rating: <span style="color: #0000ff;"><strong><span style="color: #008000;">PRO-SCIENCE</span><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY-</strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;"><strong>H</strong>IGH</span><br/>
+</strong></span>Country: <strong>USA (45/180 Press Freedom)<br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/sky-and-telescope/': <p>Factual Reporting: <span style="color: #008000;"><strong>VERY HIGH<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank:<span style="color: #ff9900;"><strong> USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/smithsonian-magazine/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">VERY HIGH</span><br/>
+</strong></span>Country: <strong>USA (44/180 Press Freedom)<br/>
+</strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/society-for-science/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY-</strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA (44/180 Press Freedom)<br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/space-com/': <p>Factual Reporting: <span style="color: #008000;"><strong>HIGH<br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff6600;"><strong>USA 45/180</strong></span></p>, 'https://mediabiasfactcheck.com/techxplore/': <p>Factual Reporting: <span style="color: #008000;"><strong>HIGH<br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>World Press Freedom Rank: <span style="color: #ff9900;"><strong>UK 35/180</strong></span></p>, 'https://mediabiasfactcheck.com/the-american-institute-of-physics/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/the-bmj-british-medical-journal/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO- SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/the-intergovernmental-panel-on-climate-change-ipcc/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<span style="color: #008000;"> <strong>EXCELLENT</strong></span><strong><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/the-lancet/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">VERY-HIGH</span><br/>
+</strong></span>Country: <strong>United Kingdom<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTY FREE</span><br/>
+</strong>Media Type: <strong>Journal<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/the-logic-of-science-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>LEAST BIASED</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank: <strong><span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/the-scientist/': <p>Bias Rating: <span style="color: #0000ff;"><strong>LEFT LEANING PRO-SCIENCE</strong><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">VERY HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Magazine<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/the-skeptics-dictionary/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #008000;"><strong>VERY </strong></span><span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/the-watchers/': None, 'https://mediabiasfactcheck.com/understand-reality-through-science/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE<br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/united-nations-environment-programme-unep/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong><b>Kenya<br/>
+</b></strong>MBFC’s Country Freedom Rating: <strong><span style="color: #ff9900;">MODERATE</span><b><span style="color: #808000;"><span style="color: #ff9900;"><strong> FREEDOM</strong></span><br/>
+</span></b></strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/universe-today/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>Canada<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span></strong><strong><span style="color: #808000;"><br/>
+</span></strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/us-department-energy-office-science/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/vaxopedia/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rating:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Minimal Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/verywell/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/verywell-family/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/verywell-fit-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/verywell-mind-bias/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/webmd/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>USA<br/>
+</strong>Press Freedom Rank:<strong> <span style="color: #808000;">MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/world-health-organization-who/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rating:<strong><span style="color: #008000;"> EXCELLENT</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>High Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/world-meteorological-organization/': <p>Bias Rating: <span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><span style="color: #0000ff;"><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">VERY HIGH</span><br/>
+</strong></span>Country: <strong>Switzerland<br/>
+</strong>MBFC’s Country Freedom Rank:<strong><span style="color: #008000;"> EXCELLENT</span><br/>
+</strong>Media Type: <strong>Organization/Foundation<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>, 'https://mediabiasfactcheck.com/zme-science/': <p>Bias Rating: <span style="color: #0000ff;"><span style="color: #008000;"><strong>PRO-SCIENCE</strong></span><strong><br/>
+</strong></span>Factual Reporting: <span style="color: #ff6600;"><strong><span style="color: #008000;">HIGH</span><br/>
+</strong></span>Country: <strong>Romania<br/>
+</strong>MBFC’s Country Freedom Rank:<strong><span style="color: #808000;"> MOSTLY FREE</span><br/>
+</strong>Media Type: <strong>Website<br/>
+</strong>Traffic/Popularity: <strong>Medium Traffic</strong><br/>
+MBFC Credibility Rating: <span style="color: #008000;"><strong>HIGH CREDIBILITY</strong></span></p>}
