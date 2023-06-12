@@ -28,7 +28,7 @@ from coder import ORJsonCoder
 
 from inference_models.inference import ModelInference
 
-factmodel = ModelInference(model_path="models/sbert-factuality/checkpoint-497",
+factmodel = ModelInference(model_path="stealthpy/sb-temfac",
                            tokenizer_path="sentence-transformers/all-mpnet-base-v2",
                            quantize=False, use_gpu=True)
 biasmodel = ModelInference(model_path="theArif/mbzuai-political-bias-bert",
