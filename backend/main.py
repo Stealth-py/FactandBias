@@ -18,9 +18,12 @@ from .coder import ORJsonCoder
 
 from .inference_models.inference import ModelInference
 
-factmodel = ModelInference(model_path="models/sbert-factuality/checkpoint-497", tokenizer_path="sentence-transformers/all-mpnet-base-v2", quantize=False, use_gpu=True)
-biasmodel = ModelInference(model_path="/l/users/arif.ahmad/mbzuai-political-bias-bert", tokenizer_path="/l/users/arif.ahmad/mbzuai-political-bias-bert", quantize=False, use_gpu=True)
-
+# factmodel = ModelInference(model_path="models/sbert-factuality/checkpoint-497",
+#                            tokenizer_path="sentence-transformers/all-mpnet-base-v2",
+#                            quantize=False, use_gpu=True)
+biasmodel = ModelInference(model_path="theArif/mbzuai-political-bias-bert",
+                           tokenizer_path="theArif/mbzuai-political-bias-bert", quantize=False, use_gpu=True)
+factmodel = biasmodel
 app = FastAPI()
 
 def request_key_builder(
@@ -76,7 +79,7 @@ async def parse(url: str, db: Session = Depends(get_db)) -> Any:
     results = []
     txts = []
     cur = time()
-    for a in articles:
+    for a in articles[:1]:
         db.add(a)
         db.commit()
         # biasresults = dmu.get_inference_results(a.txt, task = "bias")
