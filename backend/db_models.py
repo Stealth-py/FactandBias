@@ -3,7 +3,7 @@ from sqlalchemy.orm import relationship
 from sqlalchemy_utils import JSONType
 
 import datetime
-from .database import Base
+from database import Base
 
 
 class Article(Base):

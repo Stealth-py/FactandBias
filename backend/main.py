@@ -1,29 +1,38 @@
 from fastapi import Depends, FastAPI, HTTPException
 from sqlalchemy import insert
 from sqlalchemy.orm import Session
-from .database import SessionLocal
+
+import sys
+from os import path
+import os
+ROOT_DIR = path.dirname(path.abspath(__file__))
+print(ROOT_DIR)
+print(os.listdir(ROOT_DIR))
+sys.path.append(ROOT_DIR)
+print(os.listdir())
+print(ROOT_DIR + "\n\n")
+from database import SessionLocal
 from typing import List, Any
 import uvicorn
-from .scrape.scraping import extract_website
-from .models import Article, Results
-from .schemas import Article as ART, Results as RES
+from scrape.scraping import extract_website
+from db_models import Article, Results
+from schemas import Article as ART, Results as RES
 from fastapi_cache import FastAPICache
 from fastapi_cache.backends.inmemory import InMemoryBackend
 from fastapi_cache.decorator import cache
 from time import time
 from more_itertools import chunked
-from .coder import ORJsonCoder
+from coder import ORJsonCoder
 #import models.dummy_model_util as dmu
 #from memcache import async_memcache as aeromemcached
 
-from .inference_models.inference import ModelInference
+from inference_models.inference import ModelInference
 
-# factmodel = ModelInference(model_path="models/sbert-factuality/checkpoint-497",
-#                            tokenizer_path="sentence-transformers/all-mpnet-base-v2",
-#                            quantize=False, use_gpu=True)
+factmodel = ModelInference(model_path="models/sbert-factuality/checkpoint-497",
+                           tokenizer_path="sentence-transformers/all-mpnet-base-v2",
+                           quantize=False, use_gpu=True)
 biasmodel = ModelInference(model_path="theArif/mbzuai-political-bias-bert",
                            tokenizer_path="theArif/mbzuai-political-bias-bert", quantize=False, use_gpu=True)
-factmodel = biasmodel
 app = FastAPI()
 
 def request_key_builder(
@@ -79,7 +88,7 @@ async def parse(url: str, db: Session = Depends(get_db)) -> Any:
     results = []
     txts = []
     cur = time()
-    for a in articles[:1]:
+    for a in articles:
         db.add(a)
         db.commit()
         # biasresults = dmu.get_inference_results(a.txt, task = "bias")

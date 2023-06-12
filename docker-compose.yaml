@@ -4,13 +4,15 @@ services:
     build:
       context: .
     image: frontend
-    network_mode: "host"
+    #network_mode: host
     ports:
-      - 1111:1111
+      - 8501:8501
+    links:
+      - backend
   backend:
     build:
       context: ./backend
     image: backend
-    network_mode: "host"
+    #network_mode: host
     ports:
       - 8000:8000
