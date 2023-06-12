@@ -10,3 +10,5 @@ To run with docker:
 ```bash
 >>> docker-compose up
 ```
+After that the frontend will be available via `http://localhost:8501/` and the backend is available via `http://localhost:8000/docs`.
+Keep in mind that the backend requires some time to download the model weights
