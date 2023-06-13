@@ -6,11 +6,9 @@ import sys
 from os import path
 import os
 ROOT_DIR = path.dirname(path.abspath(__file__))
-print(ROOT_DIR)
-print(os.listdir(ROOT_DIR))
+
 sys.path.append(ROOT_DIR)
-print(os.listdir())
-print(ROOT_DIR + "\n\n")
+
 from database import SessionLocal
 from typing import List, Any
 import uvicorn
@@ -64,9 +62,9 @@ def get_db():
         db.close()
 
 
-@app.get("/parse")
+@app.get("/parse", response_model=List[RES])
 @cache(expire=60 * 60 * 24, key_builder=request_key_builder)
-async def parse(url: str, db: Session = Depends(get_db)) -> Any:
+async def parse(url: str, db: Session = Depends(get_db)):
     try:
         result = extract_website(url)
     except Exception as e:
@@ -89,19 +87,17 @@ async def parse(url: str, db: Session = Depends(get_db)) -> Any:
     txts = []
     cur = time()
     for a in articles:
-        db.add(a)
-        db.commit()
-        # biasresults = dmu.get_inference_results(a.txt, task = "bias")
-        # factresults = dmu.get_inference_results(a.txt, task = "fact")
         txts.append(a.txt)
     preds_factuality = []
     preds_bias = []    
-    for chunk in chunked(txts, 64):
+    for chunk in chunked(txts[:10], 64):
         biasresults = biasmodel.predict(chunk)
         factresults = factmodel.predict(chunk)
         preds_bias.extend(biasresults)
         preds_factuality.extend(factresults)
-    for factresults, biasresults in zip(preds_factuality, preds_bias):
+    db.add_all(articles)
+    db.flush()
+    for factresults, biasresults, a in zip(preds_factuality, preds_bias, articles):
         r = Results(
             factuality_results={"Factuality": {"0": "Less Factual", "1": "Mixed Factuality", "2": "Highly Factual"},
              "Scores": {"0": factresults[0], "1": factresults[1], "2": factresults[2]}},
@@ -109,22 +105,14 @@ async def parse(url: str, db: Session = Depends(get_db)) -> Any:
              "Scores": {"0": biasresults[0], "1": biasresults[1], "2": biasresults[2]}},
             url_id=a.id
         )
-
         results.append(r)
+        db.add(r)
     end = time()
 
-    print({"Factuality": {"0": "Less Factual", "1": "Mixed Factuality", "2": "Highly Factual"},
-             "Scores": {"0": factresults[0], "1": factresults[1], "2": factresults[2]}})
+    db.commit()
 
     print("Time to run: ", end - cur)
-    print(results)
-        # db.add(r)
-        # db.commit()
-    # db.bulk_save_objects(
-    #    articles,
-    # )
-    # db.commit()
-    # db.refresh(articles)
+
     return results
 
 

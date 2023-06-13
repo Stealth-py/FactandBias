@@ -60,7 +60,7 @@ def aggr_scores(results):
 
     aggregatedBiasScores = []
     aggregatedFactScores = []
-    
+    print(results)
     for i in range(len(results)):
         biasresults = results[i]['bias_results']
         factresults = results[i]['factuality_results']
@@ -78,7 +78,7 @@ def aggr_scores(results):
     aggregatedFactScores.append(np.count_nonzero(factlabs == 1)/len(factlabs))
     aggregatedFactScores.append(np.count_nonzero(factlabs == 2)/len(factlabs))
 
-    finalResult = results[0]
+    #finalResult = results[0]
     finalResult = {
         'bias_results': {
             "Bias": {"0": "Left", "1": "Center", "2": "Right"},
@@ -107,13 +107,13 @@ if __name__ == "__main__":
             placeholder="https://www.bbc.com/news",
         )
         
-        st.form_submit_button(label = "Analyse", on_click = valid_url(news_src))
+        st.form_submit_button(label="Analyse", on_click=valid_url(news_src))
 
     if VALID_SRC:
         with st.empty():
             with st.spinner('Scraping...'):
                 results = tp.make_request(news_src).json()
-            print(results[0])
+            print('\n\n\n', results)
 
             results = aggr_scores(results)
 

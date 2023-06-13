@@ -22,7 +22,7 @@ class Article(BaseModel):
 
 class Results(BaseModel):
     #id: int
-    url_id: int
+    url_id: Optional[int]
     factuality_results: Any
     bias_results: Any
     class Config:

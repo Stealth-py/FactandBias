@@ -4,13 +4,14 @@ from sqlalchemy_utils import JSONType
 
 import datetime
 from database import Base
+from sqlalchemy.orm import relationship
 
 
 class Article(Base):
     __tablename__ = "articles"
 
     id = Column(Integer, primary_key=True, index=True)
-    url = Column(String, unique=True, index=True)
+    url = Column(String, unique=False, index=True)
     # Source url
     base_url = Column(String, unique=False, index=True)
     raw_txt = Column(Text)
@@ -28,9 +29,10 @@ class Results(Base):
 
     id = Column(Integer, primary_key=True, index=True)
     url_id = Column(Integer,  ForeignKey("articles.id"))
-
+    #url = relationship()
     # Source url
     factuality_results = Column(JSONType)
     bias_results = Column(JSONType)
+    date_added = Column(DateTime, default=datetime.datetime.utcnow)
 
 

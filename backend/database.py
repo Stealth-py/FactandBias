@@ -1,3 +1,5 @@
+import datetime
+
 from sqlalchemy import create_engine
 import sqlalchemy as sa
 from sqlalchemy.ext.declarative import declarative_base
@@ -24,7 +26,7 @@ articles = sa.Table(
     'articles',
     metadata_obj,
     sa.Column('id', sa.Integer, primary_key=True),
-    sa.Column('url', sa.String, unique=True),
+    sa.Column('url', sa.String, unique=False),
     sa.Column('base_url', sa.String),
     sa.Column('raw_txt', sa.String),
     sa.Column('txt', sa.String),
@@ -32,7 +34,15 @@ articles = sa.Table(
     sa.Column('date_created', sa.String),
     sa.Column('date_added', sa.DateTime),
 )
-
+results = sa.Table(
+    'results',
+    metadata_obj,
+    sa.Column('id', sa.Integer, primary_key=True),
+    sa.Column('url_id', sa.Integer,  sa.ForeignKey("articles.id")),
+    sa.Column('factuality_results', sa.JSON),
+    sa.Column('bias_results', sa.JSON),
+    sa.Column('date_added', sa.DateTime, default=datetime.datetime.now()),
+)
 # # Create the profile table
 metadata_obj.create_all(engine)
 #mapper_registry.map_declaratively(Article)
