@@ -46,13 +46,9 @@ def plot(barfig, piefig):
     """
     Plots the bar and the pie charts on the webpage.
     """
-    col1, col2 = st.columns(2)
 
-    with col1:
-        st.plotly_chart(barfig, use_container_width=True)
-    
-    with col2:
-        st.plotly_chart(piefig, use_container_width=True)
+    st.plotly_chart(barfig, use_container_width=True)
+    st.plotly_chart(piefig, use_container_width=True)
 
 def aggr_scores(results):
     biasscores = []
@@ -113,11 +109,10 @@ if __name__ == "__main__":
         with st.empty():
             with st.spinner('Scraping...'):
                 results = tp.make_request(news_src).json()
-            print('\n\n\n', results)
 
             results = aggr_scores(results)
 
-            print(results)
+            print('\n\n\n', results)
 
             barfig = tp.plotbar(results['bias_results'])
             piefig = tp.plotpie(results['factuality_results'])
