@@ -20,7 +20,7 @@ from fastapi_cache.backends.inmemory import InMemoryBackend
 from fastapi_cache.decorator import cache
 from time import time
 from more_itertools import chunked
-from coder import ORJsonCoder
+from datetime import timedelta, datetime
 #import models.dummy_model_util as dmu
 #from memcache import async_memcache as aeromemcached
 
@@ -90,7 +90,7 @@ async def parse(url: str, db: Session = Depends(get_db)):
         txts.append(a.txt)
     preds_factuality = []
     preds_bias = []    
-    for chunk in chunked(txts[:10], 64):
+    for chunk in chunked(txts, 64):
         biasresults = biasmodel.predict(chunk)
         factresults = factmodel.predict(chunk)
         preds_bias.extend(biasresults)
@@ -120,6 +120,12 @@ async def parse(url: str, db: Session = Depends(get_db)):
 @cache(expire=60)
 async def parse(db: Session = Depends(get_db)):
     return {"data": db.query(Article).all()}
+
+
+@app.get("/urls", response_model=List[str])
+@cache(expire=60,)
+async def parse(db: Session = Depends(get_db)):
+    return set([a.base_url for a in db.query(Article).all()])
 
 
 @app.on_event("startup")

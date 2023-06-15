@@ -25,5 +25,6 @@ class Results(BaseModel):
     url_id: Optional[int]
     factuality_results: Any
     bias_results: Any
+    date_added: Any
     class Config:
         orm_mode = True

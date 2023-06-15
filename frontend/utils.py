@@ -1,7 +1,7 @@
 import plotly.express as px
 import requests as r
 from .cfg import ROOT
-
+from functools import lru_cache
 def plotpie(result):
     fig = px.pie(result, values='Scores', names='Factuality',
                 color = "Factuality",
@@ -29,5 +29,9 @@ def plotbar(result):
     )
     return fig
 
+
 def make_request(url):
     return r.get(ROOT+'parse', params={'url':url})
+@lru_cache(32)
+def get_base_urls():
+    return r.get(ROOT+'urls').json()
