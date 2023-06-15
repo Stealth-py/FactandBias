@@ -3,7 +3,7 @@ import requests as r
 from .cfg import ROOT
 
 def plotpie(result):
-    fig = px.pie(result, x='Scores', y='Factuality',
+    fig = px.pie(result, values='Scores', names='Factuality',
                 color = "Factuality",
                 color_discrete_map={
                     "Less Factual": "red",

@@ -5,22 +5,14 @@ import pandas as pd
 import torch, requests, time
 import numpy as np
 from frontend.cfg import ROOT
+from streamlit_searchbox import st_searchbox
+from thefuzz import process, fuzz
+
 VALID_SRC = False
+preprocessed_src = ["https://www.bbc.com/news", "https://www.foxnews.com"]
 
-# factscores = np.random.randn(1, 2)
-# biasscores = np.random.randn(1, 3)
-
-# factscores = torch.nn.Softmax(dim = -1)(torch.from_numpy(factscores))
-# factresult = pd.DataFrame({
-#     'Factuality':['Factual', 'Not Factual'],
-#     'Scores': factscores[0].tolist()
-# })
-
-# biasscores = torch.nn.Softmax(dim = -1)(torch.from_numpy(biasscores))
-# biasresult = pd.DataFrame({
-#     'Bias':['Left', 'Center', 'Right'],
-#     'Scores': biasscores[0].tolist()
-# })
+def search(searchterm: str):
+    return [i[0] for i in process.extract(searchterm, preprocessed_src + [searchterm], scorer = fuzz.ratio)[:5]]
 
 def valid_url(news_src: str = "https://www.bbc.com/news"):
     """
@@ -46,9 +38,10 @@ def plot(barfig, piefig):
     """
     Plots the bar and the pie charts on the webpage.
     """
-
-    st.plotly_chart(barfig, use_container_width=True)
-    st.plotly_chart(piefig, use_container_width=True)
+    col1, col2 = st.columns
+    with st.container():
+        st.plotly_chart(barfig, use_container_width=True)
+        st.plotly_chart(piefig, use_container_width=True)
 
 def aggr_scores(results):
     biasscores = []
@@ -56,7 +49,6 @@ def aggr_scores(results):
 
     aggregatedBiasScores = []
     aggregatedFactScores = []
-    print(results)
     for i in range(len(results)):
         biasresults = results[i]['bias_results']
         factresults = results[i]['factuality_results']
@@ -96,21 +88,20 @@ if __name__ == "__main__":
         st.session_state.visibility = "visible"
         st.session_state.disabled = False
 
-    with st.form("news_inp", clear_on_submit = True):
-        news_src = st.text_input(
-            "Enter the news source here ",
-            label_visibility=st.session_state.visibility,
-            placeholder="https://www.bbc.com/news",
+    with st.container():
+        news_src = st_searchbox(
+            search,
+            label = "Enter and select the news source from here.",
+            placeholder = "https://www.bbc.com/news",
         )
-        
-        st.form_submit_button(label="Analyse", on_click=valid_url(news_src))
+        st.button(label="Show Scores", on_click=valid_url(news_src))
 
     if VALID_SRC:
         with st.empty():
             with st.spinner('Scraping...'):
                 results = tp.make_request(news_src).json()
 
-            results = aggr_scores(results)
+            # results = aggr_scores(results)
 
             print('\n\n\n', results)
 
