@@ -1,7 +1,7 @@
 from fastapi import Depends, FastAPI, HTTPException
 from sqlalchemy import insert
 from sqlalchemy.orm import Session
-
+from sqlalchemy import and_
 import sys
 from os import path
 import os
@@ -63,8 +63,14 @@ def get_db():
 
 
 @app.get("/parse", response_model=List[RES])
-@cache(expire=60 * 60 * 24, key_builder=request_key_builder)
+@cache(60, key_builder=request_key_builder)
 async def parse(url: str, db: Session = Depends(get_db)):
+    ## Check if it was already analyzed
+    result = db.query(Results).join(Article).filter(Article.base_url == url).all()
+    result = [r for r in result if (datetime.now() - r.date_added).days <= 7]
+    if len(result) != 0:
+        return result
+    # If no results
     try:
         result = extract_website(url)
     except Exception as e:
@@ -125,8 +131,12 @@ async def parse(db: Session = Depends(get_db)):
 @app.get("/urls", response_model=List[str])
 @cache(expire=60,)
 async def parse(db: Session = Depends(get_db)):
-    return set([a.base_url for a in db.query(Article).all() if (a.date_added - datetime.now()).days <= 7])
+    return set([a.base_url for a in db.query(Article).all() if (datetime.now() - a.date_added).days <= 7])
 
+@app.get("/mapped", response_model=List[Any])
+async def parse(db: Session = Depends(get_db)):
+    m = db.query(Results).join(Article).all()
+    return set([str(a.__dict__ )for a in m])
 
 @app.on_event("startup")
 async def startup():

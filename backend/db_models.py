@@ -29,7 +29,8 @@ class Results(Base):
 
     id = Column(Integer, primary_key=True, index=True)
     url_id = Column(Integer,  ForeignKey("articles.id"))
-    #url = relationship()
+    # url = relationship("url",
+    #                    primaryjoin="articles.id == results.url_id")
     # Source url
     factuality_results = Column(JSONType)
     bias_results = Column(JSONType)
