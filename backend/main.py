@@ -125,7 +125,7 @@ async def parse(db: Session = Depends(get_db)):
 @app.get("/urls", response_model=List[str])
 @cache(expire=60,)
 async def parse(db: Session = Depends(get_db)):
-    return set([a.base_url for a in db.query(Article).all()])
+    return set([a.base_url for a in db.query(Article).all() if (a.date_added - datetime.now()).days <= 7])
 
 
 @app.on_event("startup")
