@@ -159,7 +159,6 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-sql_app.db
 data/
 wandb/
 mlruns/
@@ -169,10 +168,11 @@ sbert-factuality
 sbert-factuality-logs
 mdebertav3-factuality
 mdebertav3-factuality-logs
-sql_app.db
 ngrok
 
 dumps/
 *-factuality/
 *-logs/
 new_data/
+
+*.db

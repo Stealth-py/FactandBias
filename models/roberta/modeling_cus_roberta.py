@@ -7,7 +7,7 @@ import numpy as np
 import torch.utils.checkpoint
 from torch import nn
 import torch.nn.functional as F
-from torch.nn import CrossEntropyLoss, KLDivLoss
+from torch.nn import CrossEntropyLoss, KLDivLoss, L1Loss
 
 from transformers.modeling_outputs import SequenceClassifierOutput
 from transformers import RobertaModel, RobertaTokenizer
@@ -112,7 +112,7 @@ class RobertaForContrastiveClassification(RobertaPreTrainedModel):
 
         loss = None
         if labels is not None:
-            loss_fct = CrossEntropyLoss()
+            loss_fct = L1Loss()
             # kl_loss_fct = KLDivLoss(reduction = "batchmean")
             # n_loss = kl_loss_fct(
             #     F.log_softmax(logits.view(-1, self.num_labels), dim = 1),
@@ -136,7 +136,7 @@ class RobertaForContrastiveClassification(RobertaPreTrainedModel):
             # )
             # ce_loss = loss_fct(logits.view(-1, self.num_labels), labels.view(-1))
             # loss = ce_loss - self.gamma * kl_loss
-            loss = loss_fct(logits.view(-1, self.num_labels), labels.view(-1))
+            loss = loss_fct(logits.view(-1, self.num_labels), F.one_hot(labels, num_classes = self.num_labels))
 
         if not return_dict:
             output = (logits,) + outputs[2:]

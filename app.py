@@ -15,7 +15,6 @@ def search(searchterm: str, ):
     base_urls = tp.get_base_urls()
     return [i[0] for i in process.extract(searchterm, base_urls + [searchterm], scorer=fuzz.ratio)[:5]]
 
-
 def valid_url(news_src: str = "https://www.bbc.com/news"):
     """
     Check the validity of the News URL entered.
@@ -36,54 +35,21 @@ def valid_url(news_src: str = "https://www.bbc.com/news"):
 
     return
 
-def plot(barfig, piefig, source, date):
+def plot_fact_bias(biasfig, factfig, source, date):
     """
     Plots the bar and the pie charts on the webpage.
     """
-    with st.container():
-        st.markdown(f"<h3 style='text-align: center; color: black;'>{source} (updated at {date})</h3>", unsafe_allow_html=True)
-        st.plotly_chart(barfig, use_container_width=True)
-        st.plotly_chart(piefig, use_container_width=True)
+    st.markdown(f"<h3 style='text-align: center; color: black;'>{source} (updated at {date})</h3>", unsafe_allow_html=True)
+    st.write("Bias Scores")
+    st.plotly_chart(biasfig, use_container_width=True)
+    st.write("\nFactuality Results")
+    st.plotly_chart(factfig, use_container_width=True)
 
-def aggr_scores(results):
-    biasscores = []
-    factscores = []
-
-    aggregatedBiasScores = []
-    aggregatedFactScores = []
-    times = []
-    for i in range(len(results)):
-        biasresults = results[i]['bias_results']
-        factresults = results[i]['factuality_results']
-        times.append(datetime.datetime.strptime(results[i]['date_added'],
-                                                "%Y-%m-%dT%H:%M:%S.%f"))
-        biasscores.append(list(biasresults['Scores'].values()))
-        factscores.append(list(factresults['Scores'].values()))
-
-    biaslabs = np.array([np.argmax(i) for i in biasscores])
-    factlabs = np.array([np.argmax(i) for i in factscores])
-
-    aggregatedBiasScores.append(np.count_nonzero(biaslabs == 0)/len(biaslabs))
-    aggregatedBiasScores.append(np.count_nonzero(biaslabs == 1)/len(biaslabs))
-    aggregatedBiasScores.append(np.count_nonzero(biaslabs == 2)/len(biaslabs))
-
-    aggregatedFactScores.append(np.count_nonzero(factlabs == 0)/len(factlabs))
-    aggregatedFactScores.append(np.count_nonzero(factlabs == 1)/len(factlabs))
-    aggregatedFactScores.append(np.count_nonzero(factlabs == 2)/len(factlabs))
-    #finalResult = results[0]
-    finalResult = {
-        'bias_results': {
-            "Bias": {"0": "Left", "1": "Center", "2": "Right"},
-            "Scores": {"0": aggregatedBiasScores[0], "1": aggregatedBiasScores[1], "2": aggregatedBiasScores[2]}
-        },
-        'factuality_results': {
-            "Factuality": {"0": "Less Factual", "1": "Mixed Factuality", "2": "Highly Factual"},
-            "Scores": {"0": aggregatedFactScores[0], "1": aggregatedFactScores[1], "2": aggregatedFactScores[2]}
-        },
-        "date": max(times),
-    }
-
-    return finalResult
+def plot_ident_pers(identfig, persfig):
+    st.write("Identity Framing Results")
+    st.plotly_chart(identfig, use_container_width=True)
+    st.write("\nPersuasion Results")
+    st.plotly_chart(persfig, use_container_width=True)
 
 
 if __name__ == "__main__":
@@ -94,26 +60,46 @@ if __name__ == "__main__":
         st.session_state.visibility = "visible"
         st.session_state.disabled = False
 
-    with st.container():
-        news_src = st_searchbox(
-            search,
-            label="Enter and select the news source from here.",
-            placeholder="https://www.bbc.com/news",
-        )
-        st.button(label="Show Scores", on_click=valid_url(news_src))
+    news_src = st_searchbox(
+        search,
+        label="Enter and select the news source from here.",
+        key = "news_searchbox",
+        placeholder="https://www.bbc.com/news",
+    )
+
+    valid_url(news_src)
 
     if VALID_SRC:
-        with st.empty():
+        main_empty = st.empty()
+        with main_empty.container():
             with st.spinner('Scraping...'):
                 results = tp.make_request(news_src).json()
 
-            results = aggr_scores(results)
+            results = tp.aggr_scores(results)
 
             print('\n\n\n', results)
 
-            barfig = tp.plotbar(results['bias_results'])
-            piefig = tp.plotpie(results['factuality_results'])
+            biasfig = tp.plotbias(results['bias_results'])
+            factfig = tp.plotfact(results['factuality_results'])
 
-            st.markdown(f"<h3 style='text-align: center; color: black;'>{news_src}</h3>", unsafe_allow_html=True)
+            identity_results, persuasion_results = tp.get_parq(news_src = news_src)
+            is_identity_persuasion = True if identity_results else False
 
-            plot(barfig, piefig, news_src, datetime.datetime.strftime(results['date'],'%Y-%m-%d'))
+            if not is_identity_persuasion:
+                st.write("Identity Framing and Persuasion Results were not found in the database. Displaying Factuality and Bias Results only.")
+                plot_fact_bias(biasfig, factfig, news_src, datetime.datetime.strftime(results['date'],'%Y-%m-%d'))
+            else:
+                fig_col1, fig_col2 = st.columns(2)
+
+                identfig = tp.plotiden(identity_results)
+                persfig = tp.plotpers(persuasion_results)
+
+                is_reanalyse = st.button("Reanalyse", key = "reanalysebutton", on_click = valid_url(news_src))
+                plot_fact_bias(biasfig, factfig, news_src, datetime.datetime.strftime(results['date'],'%Y-%m-%d'))
+                
+                plot_ident_pers(identfig, persfig)
+
+                if is_reanalyse:
+                    pass
+                    # with st.spinner("Reanalysing..."):
+                    #     tp.reanalyse(news_src)
