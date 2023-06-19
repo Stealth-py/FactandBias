@@ -1,5 +1,6 @@
 import plotly.express as px
 import requests as r
+import os
 from .cfg import ROOT
 from functools import lru_cache
 import datetime, json
@@ -10,9 +11,44 @@ agg_pq = pd.read_parquet("data/media_agg.parquet")
 
 pq = pd.read_parquet("data/media_agg_subtask3.parquet")
 pq.columns = [i.replace('labels.', '') for i in pq.columns.tolist()]
+with open("src/text_mapping.json", 'r') as f:
+    tags_mapping = json.loads(f.read())
+guns_jsons = [i for i in os.listdir("src") if 'guns' in i]
+gpt_guns = {}
+for js in guns_jsons:
+    with open(f"src/{js}", "r") as f:
+        j = json.loads(f.read())
+        gpt_guns.update(j)
+env_jsons = [i for i in os.listdir("src") if 'env' in i]
+gpt_env = {}
+for js in env_jsons:
+    with open(f"src/{js}", "r") as f:
+        j = json.loads(f.read())
+        gpt_env.update(j)
+
+business_jsons = [i for i in os.listdir("src") if 'business' in i]
+gpt_business = {}
+for js in business_jsons:
+    with open(f"src/{js}", "r") as f:
+        j = json.loads(f.read())
+        gpt_business.update(j)
+
+healthcare_jsons = [i for i in os.listdir("src") if 'healthcare' in i]
+gpt_healthcare = {}
+for js in healthcare_jsons:
+    with open(f"src/{js}", "r") as f:
+        j = json.loads(f.read())
+        gpt_healthcare.update(j)
+
+immigration_jsons = [i for i in os.listdir("src") if 'immigration' in i]
+gpt_immigration = {}
+for js in immigration_jsons:
+    with open(f"src/{js}", "r") as f:
+        j = json.loads(f.read())
+        gpt_immigration.update(j)
 
 with open("data/linkmapping.json", "r") as file:
-    basemapped_to_link = json.loads(file.read())
+  basemapped_to_link = json.loads(file.read())
 
 def get_parq(news_src):
     news_src = basemapped_to_link[news_src]
@@ -114,9 +150,26 @@ def aggr_scores(results):
     return finalResult
 
 
-def make_request(url):
-    return r.get(ROOT+'parse', params={'url':url})
+def make_request(url, is_forced=False):
+    return r.get(ROOT+'parse', params={'url':url, 'is_forced':is_forced})
+
 
 @lru_cache(32)
 def get_base_urls():
     return r.get(ROOT+'urls').json() + list(basemapped_to_link.keys())
+
+
+def get_tags_by_source(source):
+    return tags_mapping.get(source)
+
+
+def get_gpt(source):
+    if not source in gpt_guns:
+        return None
+    return {
+        "Gun Rights": gpt_guns.get(source) if not len(gpt_guns.get(source).split())>=5 else "Unclear",
+        "Environmental Policy": gpt_env.get(source) if not len(gpt_env.get(source).split())>=5 else "Unclear",
+        "Worker’s/Business Rights": gpt_business.get(source) if not len(gpt_business.get(source).split())>=5 else "Unclear",
+        "Healthcare": gpt_healthcare.get(source) if not len(gpt_healthcare.get(source).split())>=5 else "Unclear",
+        "Immigration": gpt_immigration.get(source) if not len(gpt_immigration.get(source).split())>=5 else "Unclear"
+    }

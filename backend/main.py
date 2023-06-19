@@ -63,12 +63,12 @@ def get_db():
 
 
 @app.get("/parse", response_model=List[RES])
-@cache(60, key_builder=request_key_builder)
-async def parse(url: str, db: Session = Depends(get_db)):
+#@cache(60, key_builder=request_key_builder)
+async def parse(url: str, is_forced:bool, db: Session = Depends(get_db)):
     ## Check if it was already analyzed
     result = db.query(Results).join(Article).filter(Article.base_url == url).all()
     result = [r for r in result if (datetime.now() - r.date_added).days <= 7]
-    if len(result) != 0:
+    if len(result) != 0 and not is_forced:
         return result
     # If no results
     try:
