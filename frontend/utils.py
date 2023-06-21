@@ -7,18 +7,20 @@ import datetime, json
 import numpy as np
 import pandas as pd
 
-agg_pq = pd.read_parquet("data/media_agg.parquet")
+agg_pq = pd.read_parquet("data/df_agg_pq.parquet")
 
-pq = pd.read_parquet("data/media_agg_subtask3.parquet")
+pq = pd.read_parquet("data/df_pq.parquet")
 pq.columns = [i.replace('labels.', '') for i in pq.columns.tolist()]
-with open("src/text_mapping.json", 'r') as f:
+with open("src/mbfc_alt_text.json", 'r') as f:
     tags_mapping = json.loads(f.read())
+
 guns_jsons = [i for i in os.listdir("src") if 'guns' in i]
 gpt_guns = {}
 for js in guns_jsons:
     with open(f"src/{js}", "r") as f:
         j = json.loads(f.read())
         gpt_guns.update(j)
+
 env_jsons = [i for i in os.listdir("src") if 'env' in i]
 gpt_env = {}
 for js in env_jsons:
@@ -51,11 +53,10 @@ with open("data/linkmapping.json", "r") as file:
   basemapped_to_link = json.loads(file.read())
 
 def get_parq(news_src):
-    news_src = basemapped_to_link[news_src]
-    try:
-        return dict(agg_pq.loc[news_src]), dict(pq.loc[news_src])
-    except KeyError as e:
+    news_src = basemapped_to_link.get(news_src)
+    if news_src is None:
         return {}, {}
+    return dict(agg_pq.loc[news_src]), dict(pq.loc[news_src])
 
 def plotfact(result):
     fig = px.pie(result, values='Scores', names='Factuality',
@@ -85,26 +86,28 @@ def plotbias(result):
     return fig
 
 def plotiden(result):
-    fig = px.bar(x=list(result.values()), y=list(result.keys()), color = list(result.keys()), color_discrete_sequence = px.colors.sequential.Viridis, orientation = 'h')
+    fig = px.bar(x=list(result.values()), y=list(result.keys()), color = list(result.keys()), color_continuous_scale = px.colors.qualitative.Alphabet, orientation = 'h')
     fig.update_layout(
         autosize=False,
         height=600,
         xaxis = dict(
-            tickvals = list(range(0, 1))
-        )
+            tickvals = list(range(0, 1)),
+        ),
+        yaxis=dict(categoryorder = 'total ascending')
     )
     return fig
     # fig = px.pie(values=list(result.values()), names=list(result.keys()))
     # return fig
 
 def plotpers(result):
-    fig = px.bar(x=list(result.values()), y=list(result.keys()), orientation = 'h')
+    fig = px.bar(x=list(result.values()), y=list(result.keys()), color = list(result.keys()), color_continuous_scale = px.colors.qualitative.Dark24, orientation = 'h')
     fig.update_layout(
         autosize=False,
         height=800,
         xaxis = dict(
-            tickvals = list(range(0, 1))
-        )
+            tickvals = list(range(0, 1)),
+        ),
+        yaxis=dict(categoryorder = 'total ascending')
     )
     return fig
 
@@ -156,7 +159,7 @@ def make_request(url, is_forced=False):
 
 @lru_cache(32)
 def get_base_urls():
-    return r.get(ROOT+'urls').json() + list(basemapped_to_link.keys())
+    return list(set(r.get(ROOT+'urls').json() + list(basemapped_to_link.keys())))
 
 
 def get_tags_by_source(source):

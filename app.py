@@ -86,6 +86,28 @@ def plot_ident_pers(identfig, persfig):
     st.plotly_chart(persfig, use_container_width=True)
 
 
+def plot_results(results):
+    results = tp.aggr_scores(results)
+
+    print('\n\n\n', results)
+
+    biasfig = tp.plotbias(results['bias_results'])
+    factfig = tp.plotfact(results['factuality_results'])
+
+    identity_results, persuasion_results = tp.get_parq(news_src = news_src)
+    is_identity_persuasion = True if identity_results else False
+
+    if not is_identity_persuasion:
+        st.write("Identity Framing and Persuasion Results were not found in the database. Displaying Factuality and Bias Results only.")
+        plot_fact_bias(biasfig, factfig, news_src, datetime.datetime.strftime(results['date'],'%Y-%m-%d'))
+    else:
+        identfig = tp.plotiden(identity_results)
+        persfig = tp.plotpers(persuasion_results)
+
+        plot_fact_bias(biasfig, factfig, news_src, datetime.datetime.strftime(results['date'],'%Y-%m-%d'))
+        plot_ident_pers(identfig, persfig)
+
+
 if __name__ == "__main__":
 
     st.set_page_config(layout="wide")
@@ -104,34 +126,45 @@ if __name__ == "__main__":
     valid_url(news_src)
 
     if VALID_SRC:
+        if news_src[-1] == "\\":
+            news_src = news_src[:-1]
+        print(news_src)
+
         main_empty = st.empty()
         with main_empty.container():
             with st.spinner('Scraping...'):
                 results = tp.make_request(news_src).json()
 
-            results = tp.aggr_scores(results)
+            # results = tp.aggr_scores(results)
 
-            print('\n\n\n', results)
+            # print('\n\n\n', results)
 
-            biasfig = tp.plotbias(results['bias_results'])
-            factfig = tp.plotfact(results['factuality_results'])
+            # biasfig = tp.plotbias(results['bias_results'])
+            # factfig = tp.plotfact(results['factuality_results'])
 
-            identity_results, persuasion_results = tp.get_parq(news_src = news_src)
-            is_identity_persuasion = True if identity_results else False
+            # identity_results, persuasion_results = tp.get_parq(news_src = news_src)
+            # is_identity_persuasion = True if identity_results else False
 
-            if not is_identity_persuasion:
-                st.write("Identity Framing and Persuasion Results were not found in the database. Displaying Factuality and Bias Results only.")
-                plot_fact_bias(biasfig, factfig, news_src, datetime.datetime.strftime(results['date'],'%Y-%m-%d'))
-            else:
-                fig_col1, fig_col2 = st.columns(2)
+            # if not is_identity_persuasion:
+            #     st.write("Identity Framing and Persuasion Results were not found in the database. Displaying Factuality and Bias Results only.")
+            #     plot_fact_bias(biasfig, factfig, news_src, datetime.datetime.strftime(results['date'],'%Y-%m-%d'))
+            # else:
+            #     fig_col1, fig_col2 = st.columns(2)
 
-                identfig = tp.plotiden(identity_results)
-                persfig = tp.plotpers(persuasion_results)
+            #     identfig = tp.plotiden(identity_results)
+            #     persfig = tp.plotpers(persuasion_results)
 
-                is_reanalyse = st.button("Reanalyse", key = "reanalysebutton", on_click = valid_url(news_src))
-                plot_fact_bias(biasfig, factfig, news_src, datetime.datetime.strftime(results['date'],'%Y-%m-%d'))
-                
-                plot_ident_pers(identfig, persfig)
+            plot_results(results)
 
-                if is_reanalyse:
+            is_reanalyse = st.button("Reanalyse", key = "reanalysebutton", on_click = valid_url(news_src))
+            # plot_fact_bias(biasfig, factfig, news_src, datetime.datetime.strftime(results['date'],'%Y-%m-%d'))
+            # plot_ident_pers(identfig, persfig)
+
+        if is_reanalyse:
+            main_empty.empty()
+
+            with main_empty.container():
+                with st.spinner("Reanalyzing..."):
                     results = tp.make_request(news_src, True).json()
+
+                plot_results(results)
