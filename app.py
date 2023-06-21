@@ -126,7 +126,7 @@ if __name__ == "__main__":
     valid_url(news_src)
 
     if VALID_SRC:
-        if news_src[-1] == "\\":
+        if news_src[-1] == "/":
             news_src = news_src[:-1]
         print(news_src)
 
