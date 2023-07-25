@@ -1,5 +1,14 @@
 # NLP-Project-1
 
+To make a conda environment
+
+```
+conda create --name ugrip
+conda activate ugrip
+conda install pip
+pip install -r requirements.txt
+```
+
 To run locally (but first of all, please, change the /frontend/cfg.py contents to `ROOT = 'http://127.0.0.1:8000/'`) :
 ```bash
 >>> uvicorn backend.main:app --reload
