@@ -62,16 +62,6 @@ def plot_fact_bias(biasfig, factfig, source, date):
                                        orient='index',
                                        columns=['opinion']).T
             )
-            # st.markdown(f"<p>{source_base} has "
-            #             "<ul>"
-            #             f"<li><strong>{gpt_responses['guns']} point of view on Guns policy,</strong></li>"
-            #             f"<li><strong>{gpt_responses['env'].replace('.', '')} opinion on Environment,</strong></li>"
-            #             f"<li><strong>{gpt_responses['business'].replace('.', '')} opinion on Business laws,</strong></li>"
-            #             f"<li><strong>{gpt_responses['healthcare'].replace('.', '')} point of view on healthcare,</strong></li>"
-            #             f"<li><strong>{gpt_responses['immigration'].replace('.', '')} opinion of on immigration</strong></li>"
-            #             "</p>",
-            #             unsafe_allow_html=True
-            #             )
 
     st.write("Bias Scores")
     st.plotly_chart(biasfig, use_container_width=True)

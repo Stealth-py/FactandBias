@@ -70,7 +70,9 @@ def plotfact(result):
     return fig
 
 def plotbias(result):
-    fig = px.bar(result, x='Bias', y='Scores',
+    # result['Bias'] = list(result['Bias'].values())
+    # result['Scores'] = list(result['Scores'].values())
+    fig = px.bar(result, x=['Left', 'Center', 'Right'], y='Scores',
                 color = "Bias",
                 color_discrete_map={
                     "Left": "blue",
@@ -80,9 +82,13 @@ def plotbias(result):
                 category_orders={"Bias": ["Left", "Center", "Right"]})
     fig.update_layout(
         xaxis = dict(
-            tickvals = list(range(0, 1))
+            ticktext = ['Left', 'Center', 'Right'],
+        ),
+        yaxis = dict(
+            range = [0, 1]
         )
     )
+
     return fig
 
 def plotiden(result):
@@ -144,7 +150,7 @@ def aggr_scores(results):
             "Scores": {"0": aggregatedBiasScores[0], "1": aggregatedBiasScores[1], "2": aggregatedBiasScores[2]}
         },
         'factuality_results': {
-            "Factuality": {"0": "Less Factual", "1": "Mixed Factuality", "2": "Highly Factual"},
+            "Factuality": {"0": "Low Factuality", "1": "Mixed Factuality", "2": "High Factuality"},
             "Scores": {"0": aggregatedFactScores[0], "1": aggregatedFactScores[1], "2": aggregatedFactScores[2]}
         },
         "date": max(times) if len(times) > 0 else datetime.datetime.now(),

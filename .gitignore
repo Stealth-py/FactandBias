@@ -175,3 +175,10 @@ dumps/
 new_data/
 
 *.db
+
+data/data
+data/task_3A_test
+data/task_4_test_gold
+data/task_4_news_media_factuality_test.tsv
+data/._task_4_news_media_factuality_test.tsv
+data/._task_4_test_gold
