@@ -114,10 +114,12 @@ def aggr_scores(results):
 
     aggregatedBiasScores = []
     aggregatedFactScores = []
+    nelas = []
     times = []
     for i in range(len(results)):
         biasresults = results[i]['bias_results']
         factresults = results[i]['factuality_results']
+        nelas.append(results[i]['nela'])
         if results[i].get('date_added') is not None:
             times.append(datetime.datetime.strptime(results[i]['date_added'],
                                                 "%Y-%m-%dT%H:%M:%S.%f"))
@@ -145,6 +147,7 @@ def aggr_scores(results):
             "Scores": {"0": aggregatedFactScores[0], "1": aggregatedFactScores[1], "2": aggregatedFactScores[2]}
         },
         "date": max(times) if len(times) > 0 else datetime.datetime.now(),
+        'nela': calculate_mean_per_key(nelas),
     }
 
     return finalResult
@@ -173,3 +176,25 @@ def get_gpt(source):
         "Healthcare": gpt_healthcare.get(source) if not len(gpt_healthcare.get(source).split())>=5 else "Unclear",
         "Immigration": gpt_immigration.get(source) if not len(gpt_immigration.get(source).split())>=5 else "Unclear"
     }
+
+def calculate_mean_per_key(json_list):
+    key_sum = {}
+    key_count = {}
+    print(json_list)
+    # Iterate through each JSON in the list
+    for data in json_list[0]:
+
+        # Iterate through each key-value pair in the JSON
+        for key, value in data.items():
+            # Check if the value is a number
+            if isinstance(value, (int, float)):
+                # Update the sum and count for the key
+                key_sum[key] = key_sum.get(key, 0) + value
+                key_count[key] = key_count.get(key, 0) + 1
+
+    # Calculate the mean for each key
+    mean_per_key = {}
+    for key, total_sum in key_sum.items():
+        mean_per_key[key] = total_sum / key_count[key]
+
+    return mean_per_key

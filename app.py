@@ -135,3 +135,25 @@ if __name__ == "__main__":
 
                 if is_reanalyse:
                     results = tp.make_request(news_src, True).json()
+            t = pd.DataFrame.from_dict(results['nela'],
+                                            orient='index').T
+            t.columns=['Lexical Diversity',
+                                           'Average word length',
+                                           'Average wordcount',
+                                           'Flesch-Kincaid Readability',
+                                           'SMOG Grade Readability',
+                                           'Coleman–Liau index',
+                                           'LIX',
+                                           'Moral Foundation: Kindness',
+                                           'Moral Foundation: Harm',
+                                           'Moral Foundation: Fairness',
+                                           'Moral Foundation: Cheating',
+                                           'Moral Foundation: Loyalty',
+                                           'Moral Foundation: Betrayal',
+                                           'Moral Foundation: Authority',
+                                           'Moral Foundation: Subversion',
+                                           'Moral Foundation: Purity',
+                                           'Moral Foundation: Degradation',
+                                           'General Moral Foundation'
+                                           ]
+            st.write(t)
