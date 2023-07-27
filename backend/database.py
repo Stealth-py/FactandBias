@@ -41,6 +41,7 @@ results = sa.Table(
     sa.Column('url_id', sa.Integer,  sa.ForeignKey("articles.id")),
     sa.Column('factuality_results', sa.JSON),
     sa.Column('bias_results', sa.JSON),
+    sa.Column('nela', sa.JSON),
     sa.Column('date_added', sa.DateTime, default=datetime.datetime.now()),
 )
 # # Create the profile table

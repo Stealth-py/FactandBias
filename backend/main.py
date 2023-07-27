@@ -33,6 +33,17 @@ biasmodel = ModelInference(model_path="theArif/mbzuai-political-bias-bert",
                            tokenizer_path="theArif/mbzuai-political-bias-bert", quantize=False, use_gpu=True)
 app = FastAPI()
 
+from multiprocessing import Pool
+from nela_features.nela_features import NELAFeatureExtractor
+import nltk
+nltk.download('punkt')
+nltk.download('stopwords')
+nltk.download('averaged_perceptron_tagger')
+nltk.download('maxent_ne_chunker')
+nltk.download('words')
+nela = NELAFeatureExtractor()
+
+
 def request_key_builder(
     func,
     namespace: str = "",
@@ -52,6 +63,13 @@ def request_key_builder(
     return res
 
 
+def nela_process(text):
+    comlexity_vector, complexity_names = nela.extract_complexity(text)
+    moral_vector, moral_names = nela.extract_moral(text)
+    return {key: val for val, key in zip(comlexity_vector + moral_vector,
+                                 complexity_names + moral_names)}
+
+
 
 # Dependency
 def get_db():
@@ -63,7 +81,7 @@ def get_db():
 
 
 @app.get("/parse", response_model=List[RES])
-#@cache(60, key_builder=request_key_builder)
+@cache(60, key_builder=request_key_builder)
 async def parse(url: str, is_forced:bool, db: Session = Depends(get_db)):
     ## Check if it was already analyzed
     result = db.query(Results).join(Article).filter(Article.base_url == url).all()
@@ -96,26 +114,31 @@ async def parse(url: str, is_forced:bool, db: Session = Depends(get_db)):
         txts.append(a.txt)
     preds_factuality = []
     preds_bias = []    
-    for chunk in chunked(txts, 64):
+    for chunk in chunked(txts[:5], 64):
         biasresults = biasmodel.predict(chunk)
         factresults = factmodel.predict(chunk)
         preds_bias.extend(biasresults)
         preds_factuality.extend(factresults)
-    db.add_all(articles)
-    db.flush()
-    for factresults, biasresults, a in zip(preds_factuality, preds_bias, articles):
+    # db.add_all(articles)
+    # db.flush()
+    pool = Pool(16)
+    nela_preds = pool.map(nela_process, txts[:5])
+    print(nela_preds)
+    for factresults, biasresults, a, nel in zip(preds_factuality, preds_bias, articles, nela_preds):
         r = Results(
             factuality_results={"Factuality": {"0": "Less Factual", "1": "Mixed Factuality", "2": "Highly Factual"},
              "Scores": {"0": factresults[0], "1": factresults[1], "2": factresults[2]}},
             bias_results={"Bias": {"0": "Left", "1": "Center", "2": "Right"},
              "Scores": {"0": biasresults[0], "1": biasresults[1], "2": biasresults[2]}},
-            url_id=a.id
+            url_id=a.id,
+            nela=nela_preds,
         )
         results.append(r)
-        db.add(r)
+        #db.add(r)
+
     end = time()
 
-    db.commit()
+    #db.commit()
 
     print("Time to run: ", end - cur)
 

@@ -26,5 +26,6 @@ class Results(BaseModel):
     factuality_results: Any
     bias_results: Any
     date_added: Any
+    nela: Any
     class Config:
         orm_mode = True

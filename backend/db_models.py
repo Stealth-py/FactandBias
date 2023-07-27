@@ -34,6 +34,7 @@ class Results(Base):
     # Source url
     factuality_results = Column(JSONType)
     bias_results = Column(JSONType)
+    nela = Column(JSONType)
     date_added = Column(DateTime, default=datetime.datetime.utcnow)
 
 
