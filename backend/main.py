@@ -114,7 +114,7 @@ async def parse(url: str, is_forced:bool, db: Session = Depends(get_db)):
         txts.append(a.txt)
     preds_factuality = []
     preds_bias = []    
-    for chunk in chunked(txts[:5], 64):
+    for chunk in chunked(txts, 64):
         biasresults = biasmodel.predict(chunk)
         factresults = factmodel.predict(chunk)
         preds_bias.extend(biasresults)
@@ -122,7 +122,7 @@ async def parse(url: str, is_forced:bool, db: Session = Depends(get_db)):
     db.add_all(articles)
     db.flush()
     pool = Pool(16)
-    nela_preds = pool.map(nela_process, txts[:5])
+    nela_preds = pool.map(nela_process, txts)
     print(nela_preds)
     for factresults, biasresults, a, nel in zip(preds_factuality, preds_bias, articles, nela_preds):
         r = Results(
