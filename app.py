@@ -6,6 +6,7 @@ import numpy as np
 import pandas as pd
 import torch, requests, time
 import numpy as np
+import plotly.express as px
 from frontend.cfg import ROOT
 from streamlit_searchbox import st_searchbox
 from thefuzz import process, fuzz
@@ -80,22 +81,6 @@ def plot_results(results):
     results = tp.aggr_scores(results)
 
     print('\n\n\n', results)
-
-    biasfig = tp.plotbias(results['bias_results'])
-    factfig = tp.plotfact(results['factuality_results'])
-
-    identity_results, persuasion_results = tp.get_parq(news_src = news_src)
-    is_identity_persuasion = True if identity_results else False
-
-    if not is_identity_persuasion:
-        st.write("Identity Framing and Persuasion Results were not found in the database. Displaying Factuality and Bias Results only.")
-        plot_fact_bias(biasfig, factfig, news_src, datetime.datetime.strftime(results['date'],'%Y-%m-%d'))
-    else:
-        identfig = tp.plotiden(identity_results)
-        persfig = tp.plotpers(persuasion_results)
-
-        plot_fact_bias(biasfig, factfig, news_src, datetime.datetime.strftime(results['date'],'%Y-%m-%d'))
-        plot_ident_pers(identfig, persfig)
     t = pd.DataFrame.from_dict(results['nela'],
                                orient='index').T
     t.columns = ['Lexical Diversity',
@@ -117,7 +102,45 @@ def plot_results(results):
                  'Moral Foundation: Degradation',
                  'General Moral Foundation'
                  ]
-    st.write(t)
+
+
+    biasfig = tp.plotbias(results['bias_results'])
+    factfig = tp.plotfact(results['factuality_results'])
+
+    identity_results, persuasion_results = tp.get_parq(news_src = news_src)
+    is_identity_persuasion = True if identity_results else False
+
+    if not is_identity_persuasion:
+        st.write("Identity Framing and Persuasion Results were not found in the database. Displaying Factuality and Bias Results only.")
+        plot_fact_bias(biasfig, factfig, news_src, datetime.datetime.strftime(results['date'],'%Y-%m-%d'))
+    else:
+        identfig = tp.plotiden(identity_results)
+        persfig = tp.plotpers(persuasion_results)
+
+        plot_fact_bias(biasfig, factfig, news_src, datetime.datetime.strftime(results['date'],'%Y-%m-%d'))
+        plot_ident_pers(identfig, persfig)
+    st.markdown(
+        fr"<h4>The Lexical diversity of the text is {t['Lexical Diversity'].iloc[0]}<br>Average word length: {t['Average word length'].iloc[0]}<br>Average wordcount: {t['Average wordcount'].iloc[0]}<br><br>The readability scores are shown below</h4>",
+        unsafe_allow_html=True)
+    st.write(t[['Flesch-Kincaid Readability',
+                'SMOG Grade Readability',
+                'Coleman–Liau index',
+                'LIX']])
+    fig = px.bar(t[['Moral Foundation: Kindness',
+                    'Moral Foundation: Harm',
+                    'Moral Foundation: Fairness',
+                    'Moral Foundation: Cheating',
+                    'Moral Foundation: Loyalty',
+                    'Moral Foundation: Betrayal',
+                    'Moral Foundation: Authority',
+                    'Moral Foundation: Subversion',
+                    'Moral Foundation: Purity',
+                    'Moral Foundation: Degradation', ]].T, title="Fraction of words from different moral foundations")
+
+    fig.update_layout(showlegend=False)
+    st.plotly_chart(fig)
+    st.markdown(fr"<p>The general moral foundation of the text is {t['General Moral Foundation'].iloc[0]} </p>",
+                unsafe_allow_html=True)
 
 if __name__ == "__main__":
 

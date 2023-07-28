@@ -119,8 +119,8 @@ async def parse(url: str, is_forced:bool, db: Session = Depends(get_db)):
         factresults = factmodel.predict(chunk)
         preds_bias.extend(biasresults)
         preds_factuality.extend(factresults)
-    db.add_all(articles)
-    db.flush()
+    # db.add_all(articles)
+    # db.flush()
     pool = Pool(16)
     nela_preds = pool.map(nela_process, txts)
     print(nela_preds)
@@ -134,11 +134,11 @@ async def parse(url: str, is_forced:bool, db: Session = Depends(get_db)):
             nela=nela_preds,
         )
         results.append(r)
-        db.add(r)
+        # db.add(r)
 
     end = time()
 
-    db.commit()
+    #db.commit()
 
     print("Time to run: ", end - cur)
 
