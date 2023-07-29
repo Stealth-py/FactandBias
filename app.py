@@ -126,7 +126,7 @@ def plot_results(results):
                 'SMOG Grade Readability',
                 'Coleman–Liau index',
                 'LIX']])
-    fig = px.bar(t[['Moral Foundation: Kindness',
+    fig = px.bar(t[['Moral Foundation: Care',
                     'Moral Foundation: Harm',
                     'Moral Foundation: Fairness',
                     'Moral Foundation: Cheating',
