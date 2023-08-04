@@ -144,11 +144,16 @@ def plot_results(results):
 
 if __name__ == "__main__":
 
-    st.set_page_config(layout="wide")
+    st.set_page_config(layout="wide",
+                       page_title="Fact&Bias",
+                       page_icon=":newspaper:")
 
     if "visibility" not in st.session_state:
         st.session_state.visibility = "visible"
         st.session_state.disabled = False
+
+    st.markdown("<h2 style='text-align: center; color: black;'>Uncover the Truth, Unmask the Biases - Explore 67K websites with Fact&Bias!</h2>",
+                unsafe_allow_html=True)
 
     news_src = st_searchbox(
         search,
@@ -156,6 +161,11 @@ if __name__ == "__main__":
         key = "news_searchbox",
         placeholder="https://www.bbc.com/news",
     )
+
+    bottom_half_landing = st.empty()
+    with bottom_half_landing.container():
+        st.markdown("<h3 style='color: black;'>Get to know your media source's -</h3><div><h4><ul class='columns' data-columns='2'><li>Factuality</li><li>Propaganda and Identity Framing Techniques used</li><li>Political Bias</li><li>Morality of text used</li><li>Political Stance</li><li>Complexity of text used</li></ul></h4></div>",
+                    unsafe_allow_html=True)
 
     valid_url(news_src)
 
@@ -166,6 +176,7 @@ if __name__ == "__main__":
 
         main_empty = st.empty()
         with main_empty.container():
+            bottom_half_landing.empty()
             with st.spinner('Scraping...'):
                 results = tp.make_request(news_src).json()
 
