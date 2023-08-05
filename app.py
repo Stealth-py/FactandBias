@@ -90,7 +90,7 @@ def plot_results(results):
                  'SMOG Grade Readability',
                  'Coleman–Liau index',
                  'LIX',
-                 'Moral Foundation: Kindness',
+                 'Moral Foundation: Care',
                  'Moral Foundation: Harm',
                  'Moral Foundation: Fairness',
                  'Moral Foundation: Cheating',
@@ -120,7 +120,7 @@ def plot_results(results):
         plot_fact_bias(biasfig, factfig, news_src, datetime.datetime.strftime(results['date'],'%Y-%m-%d'))
         plot_ident_pers(identfig, persfig)
     st.markdown(
-        fr"<h4>The Lexical diversity of the text is {t['Lexical Diversity'].iloc[0]}<br>Average word length: {t['Average word length'].iloc[0]}<br>Average wordcount: {t['Average wordcount'].iloc[0]}<br><br>The readability scores are shown below</h4>",
+        fr"<h4>The Lexical diversity of the text is {t['Lexical Diversity'].iloc[0]:.3f}<br>Average word length: {t['Average word length'].iloc[0]:.3f}<br>Average wordcount: {t['Average wordcount'].iloc[0]:.3f}<br><br>The readability scores are shown below</h4>",
         unsafe_allow_html=True)
     st.write(t[['Flesch-Kincaid Readability',
                 'SMOG Grade Readability',
