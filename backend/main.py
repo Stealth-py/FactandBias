@@ -26,11 +26,8 @@ from datetime import timedelta, datetime
 
 from inference_models.inference import ModelInference
 
-factmodel = ModelInference(model_path="stealthpy/sb-temfac",
-                           tokenizer_path="sentence-transformers/all-mpnet-base-v2",
-                           quantize=False, use_gpu=True)
-biasmodel = ModelInference(model_path="theArif/mbzuai-political-bias-bert",
-                           tokenizer_path="theArif/mbzuai-political-bias-bert", quantize=False, use_gpu=True)
+factmodel = ModelInference(inference_type="factuality")
+biasmodel = ModelInference(inference_type="bias")
 app = FastAPI()
 
 from multiprocessing import Pool
@@ -59,7 +56,6 @@ def request_key_builder(
         request.url.path,
         repr(sorted(request.query_params.items()))
     ])
-    print(res)
     return res
 
 
@@ -121,9 +117,10 @@ async def parse(url: str, is_forced:bool, db: Session = Depends(get_db)):
         preds_factuality.extend(factresults)
     # db.add_all(articles)
     # db.flush()
-    pool = Pool(16)
+
+    pool = Pool(4)
     nela_preds = pool.map(nela_process, txts)
-    print(nela_preds)
+    # print(nela_preds)
     for factresults, biasresults, a, nel in zip(preds_factuality, preds_bias, articles, nela_preds):
         r = Results(
             factuality_results={"Factuality": {"0": "Less Factual", "1": "Mixed Factuality", "2": "Highly Factual"},

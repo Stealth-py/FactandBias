@@ -80,7 +80,7 @@ def plot_ident_pers(identfig, persfig):
 def plot_results(results):
     results = tp.aggr_scores(results)
 
-    print('\n\n\n', results)
+    # print('\n\n\n', results)
     t = pd.DataFrame.from_dict(results['nela'],
                                orient='index').T
     t.columns = ['Lexical Diversity',
@@ -106,6 +106,8 @@ def plot_results(results):
 
     biasfig = tp.plotbias(results['bias_results'])
     factfig = tp.plotfact(results['factuality_results'])
+
+    print(results['bias_results'], results['factuality_results'])
 
     identity_results, persuasion_results = tp.get_parq(news_src = news_src)
     is_identity_persuasion = True if identity_results else False
@@ -181,8 +183,6 @@ if __name__ == "__main__":
                 results = tp.make_request(news_src).json()
 
             # results = tp.aggr_scores(results)
-
-            # print('\n\n\n', results)
 
             # biasfig = tp.plotbias(results['bias_results'])
             # factfig = tp.plotfact(results['factuality_results'])

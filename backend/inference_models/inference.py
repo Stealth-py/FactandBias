@@ -5,23 +5,54 @@ import torch.nn as nn
 import numpy as np
 import os
 import transformers
+import requests
 
+FACT_API_URL = "https://api-inference.huggingface.co/models/stealthpy/sb-temfac"
+fact_headers = {"Authorization": "Bearer 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"}
+
+BIAS_API_URL = "https://api-inference.huggingface.co/models/theArif/mbzuai-political-bias-bert"
+bias_headers = {"Authorization": "Bearer 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"}
+
+def query_bias(payload):
+	response = requests.post(BIAS_API_URL, headers=bias_headers, json=payload)
+	return response.json()
+
+def query_fact(payload):
+	response = requests.post(FACT_API_URL, headers=fact_headers, json=payload)
+	return response.json()
 
 class ModelInference:
-    def __init__(self, model_path: str, tokenizer_path: str, quantize: bool, use_gpu: bool) -> None:
-        self.tokenizer = AutoTokenizer.from_pretrained(tokenizer_path)
-        self.model = AutoModelForSequenceClassification.from_pretrained(model_path)
-        self.device = torch.device("cuda:0") if torch.cuda.is_available() and use_gpu else torch.device("cpu")
-        torch.set_num_threads(1)
-        torch.set_grad_enabled(False)
-        if quantize:
-            self.model = torch.quantization.quantize_dynamic(self.model, {torch.nn.Linear}, dtype=torch.qint8)
-        self.model = self.model.to(self.device).eval()
+    def __init__(self, inference_type = "factuality") -> None:
+        self.inference_type = inference_type
 
     def predict(self, batch: List[str]) -> np.array:
-        with torch.no_grad():
-            inputs = self.tokenizer(batch, truncation=True, padding=True, return_tensors="pt").to(self.device)
-            #labels = torch.tensor([1]).unsqueeze(0)
-            outputs = self.model(**inputs)
-            res = nn.Softmax(dim = -1)(outputs.logits).cpu().numpy().tolist()
+        res = []
+        if self.inference_type == "factuality":
+            output = query_fact({
+                "inputs": batch,
+                "parameters": {
+                    'padding':True,
+                    'truncation':True,
+                    'max_length': 512
+                }
+            })
+            print(output)
+            for each in output:
+                res.append([each[2]['score'], each[1]['score'], each[0]['score']])
+        elif self.inference_type == "bias":
+            output = query_bias({
+                "inputs": batch,
+                "parameters": {
+                    'padding':True,
+                    'truncation':True,
+                    'max_length': 512
+                }
+            })
+            print(output)
+            for each in output:
+                res.append([each[0]['score'], each[1]['score'], each[2]['score']])
+        res = np.array(res)
         return res
+
+# biasmodel = ModelInference(inference_type="bias")
+# biasmodel.predict(["This is a test sentence"])
