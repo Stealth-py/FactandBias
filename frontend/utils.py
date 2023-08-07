@@ -1,11 +1,10 @@
 import plotly.express as px
-import requests as r
 import os
-from .cfg import ROOT
 from functools import lru_cache
 import datetime, json
 import numpy as np
 import pandas as pd
+from .backend import main
 
 agg_pq = pd.read_parquet("data/df_agg_pq.parquet")
 
@@ -163,12 +162,13 @@ def aggr_scores(results):
 
 
 def make_request(url, is_forced=False):
-    return r.get(ROOT+'parse', params={'url':url, 'is_forced':is_forced})
+    return main.parse(url, is_forced)#r.get(ROOT+'parse', params={'url':url, 'is_forced':is_forced})
 
 
 @lru_cache(32)
 def get_base_urls():
-    return list(set(r.get(ROOT+'urls').json() + list(basemapped_to_link.keys())))
+    print(main.urls())
+    return list(set(list(main.urls()) + list(basemapped_to_link.keys()))) #list(set(r.get(ROOT+'urls').json() + list(basemapped_to_link.keys())))
 
 
 def get_tags_by_source(source):

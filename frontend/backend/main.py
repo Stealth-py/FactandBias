@@ -11,13 +11,13 @@ sys.path.append(ROOT_DIR)
 
 from database import SessionLocal
 from typing import List, Any
-import uvicorn
+#import uvicorn
 from scrape.scraping import extract_website
 from db_models import Article, Results
 from schemas import Article as ART, Results as RES
-from fastapi_cache import FastAPICache
-from fastapi_cache.backends.inmemory import InMemoryBackend
-from fastapi_cache.decorator import cache
+# from fastapi_cache import FastAPICache
+# from fastapi_cache.backends.inmemory import InMemoryBackend
+# from fastapi_cache.decorator import cache
 from time import time
 from more_itertools import chunked
 from datetime import timedelta, datetime
@@ -28,7 +28,7 @@ from inference_models.inference import ModelInference
 
 factmodel = ModelInference(inference_type="factuality")
 biasmodel = ModelInference(inference_type="bias")
-app = FastAPI()
+# app = FastAPI()
 
 from multiprocessing import Pool
 from nela_features.nela_features import NELAFeatureExtractor
@@ -41,22 +41,22 @@ nltk.download('words')
 nela = NELAFeatureExtractor()
 
 
-def request_key_builder(
-    func,
-    namespace: str = "",
-    *,
-    request = None,
-    response = None,
-    #*args,
-    **kwargs,
-):
-    res = ":".join([
-        namespace,
-        request.method.lower(),
-        request.url.path,
-        repr(sorted(request.query_params.items()))
-    ])
-    return res
+# def request_key_builder(
+#     func,
+#     namespace: str = "",
+#     *,
+#     request = None,
+#     response = None,
+#     #*args,
+#     **kwargs,
+# ):
+#     res = ":".join([
+#         namespace,
+#         request.method.lower(),
+#         request.url.path,
+#         repr(sorted(request.query_params.items()))
+#     ])
+#     return res
 
 
 def nela_process(text):
@@ -67,18 +67,19 @@ def nela_process(text):
 
 
 
-# Dependency
-def get_db():
-    db = SessionLocal()
-    try:
-        yield db
-    finally:
-        db.close()
+# # Dependency
+# def get_db():
+#     db = SessionLocal()
+#     try:
+#         yield db
+#     finally:
+#         db.close()
 
 
-@app.get("/parse", response_model=List[RES])
+#@app.get("/parse", response_model=List[RES])
 #@cache(60, key_builder=request_key_builder)
-async def parse(url: str, is_forced:bool, db: Session = Depends(get_db)):
+def parse(url: str, is_forced:bool):
+    db = SessionLocal()
     ## Check if it was already analyzed
     result = db.query(Results).join(Article).filter(Article.base_url == url).all()
     result = [r for r in result if (datetime.now() - r.date_added).days <= 7]
@@ -110,7 +111,7 @@ async def parse(url: str, is_forced:bool, db: Session = Depends(get_db)):
         txts.append(a.txt)
     preds_factuality = []
     preds_bias = []    
-    for chunk in chunked(txts, 64):
+    for chunk in chunked(txts[:20], 64):
         biasresults = biasmodel.predict(chunk)
         factresults = factmodel.predict(chunk)
         preds_bias.extend(biasresults)
@@ -119,7 +120,7 @@ async def parse(url: str, is_forced:bool, db: Session = Depends(get_db)):
     # db.flush()
 
     pool = Pool(4)
-    nela_preds = pool.map(nela_process, txts)
+    nela_preds = pool.map(nela_process, txts[:20])
     # print(nela_preds)
     for factresults, biasresults, a, nel in zip(preds_factuality, preds_bias, articles, nela_preds):
         r = Results(
@@ -139,30 +140,32 @@ async def parse(url: str, is_forced:bool, db: Session = Depends(get_db)):
 
     print("Time to run: ", end - cur)
 
-    return results
+    return [i.__dict__ for i in results]
 
 
-@app.get("/db")
-@cache(expire=60)
-async def parse(db: Session = Depends(get_db)):
-    return {"data": db.query(Article).all()}
+# @app.get("/db")
+# @cache(expire=60)
+# def parse(db: Session = Depends(get_db)):
+#     return {"data": db.query(Article).all()}
 
 
-@app.get("/urls", response_model=List[str])
-@cache(expire=60,)
-async def parse(db: Session = Depends(get_db)):
+# @app.get("/urls", response_model=List[str])
+# @cache(expire=60,)
+def urls():
+    print('Getting urls')
+    db = SessionLocal()
     return set([a.base_url for a in db.query(Article).all() if (datetime.now() - a.date_added).days <= 7])
 
-@app.get("/mapped", response_model=List[Any])
-async def parse(db: Session = Depends(get_db)):
-    m = db.query(Results).join(Article).all()
-    return set([str(a.__dict__ )for a in m])
+# @app.get("/mapped", response_model=List[Any])
+# async def parse(db: Session = Depends(get_db)):
+#     m = db.query(Results).join(Article).all()
+#     return set([str(a.__dict__ )for a in m])
 
-@app.on_event("startup")
-async def startup():
-    FastAPICache.init(InMemoryBackend(), prefix="fastapi-inmemorycache")
-    print("Started")
-
-
-if __name__ == '__main__':
-    uvicorn.run("main:app", host="127.0.0.1", port=8000, reload=True)
+# @app.on_event("startup")
+# async def startup():
+#     FastAPICache.init(InMemoryBackend(), prefix="fastapi-inmemorycache")
+#     print("Started")
+#
+#
+# if __name__ == '__main__':
+#     uvicorn.run("main:app", host="127.0.0.1", port=8000, reload=True)

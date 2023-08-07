@@ -10,6 +10,7 @@ import plotly.express as px
 from frontend.cfg import ROOT
 from streamlit_searchbox import st_searchbox
 from thefuzz import process, fuzz
+
 VALID_SRC = False
 
 
@@ -180,7 +181,7 @@ if __name__ == "__main__":
         with main_empty.container():
             bottom_half_landing.empty()
             with st.spinner('Scraping...'):
-                results = tp.make_request(news_src).json()
+                results = tp.make_request(news_src)
 
             # results = tp.aggr_scores(results)
 
@@ -210,6 +211,6 @@ if __name__ == "__main__":
 
             with main_empty.container():
                 with st.spinner("Reanalyzing..."):
-                    results = tp.make_request(news_src, True).json()
+                    results = tp.make_request(news_src, True)
                 plot_results(results)
 

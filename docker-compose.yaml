@@ -10,8 +10,10 @@ services:
       - backend
   backend:
     build:
-      context: ./backend
+      context: frontend/backend
     image: backend
+    volumes:
+      - C:\Users\faced\PycharmProjects\ml_services\vol:/code
     ports:
       - 8000:8000
 
